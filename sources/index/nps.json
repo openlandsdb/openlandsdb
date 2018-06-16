@@ -1,0 +1,16 @@
+{
+	"id": 102345678,
+	"name": "National Park Service",
+	"prefix": "nps",
+	"access_date": "2018-06-14",
+	"description": "Data Store of the National Park Service.",
+	"notes": {
+		"2018-06-14": "Downloaded park boundary shapefile and sanitized properties for import."
+	},
+	"license_type": "Public Domain",
+	"license_text": "No Restriction - The information is neither copyrighted nor has any other use restrictions related to it being intellectual property. For that reason, this information may be distributed to the NPS and public.",
+	"url_license": "https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True",
+	"url_download": "https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True",
+	"url_home": "https://irma.nps.gov/DataStore/",
+	"url_archive": "https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True"
+}
