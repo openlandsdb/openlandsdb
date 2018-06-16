@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -63.5959772845894, 
+                    45.47184577559311
+                ], 
+                [
+                    -63.59613902781264, 
+                    45.47162828198129
+                ], 
+                [
+                    -63.59660293890114, 
+                    45.47181023120627
+                ], 
+                [
+                    -63.59643816024431, 
+                    45.472017578977976
+                ], 
+                [
+                    -63.5959772845894, 
+                    45.47184577559311
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460564, 
+    "properties": {
+        "geom:bounds": "-63.5966029389,45.471628282,-63.5959772846,45.472017579", 
+        "geom:latitude": 45.4718246646432, 
+        "geom:longitude": -63.59628833969743, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.47182320059318, 
+        "label:longitude": -63.596285501137736, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187486, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Londonderry Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

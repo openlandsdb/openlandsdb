@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.06875765149492, 
+                    44.52817655508264
+                ], 
+                [
+                    -64.06894216939492, 
+                    44.524649409078236
+                ], 
+                [
+                    -64.07551732541658, 
+                    44.52481866604562
+                ], 
+                [
+                    -64.07532908711191, 
+                    44.52831494238639
+                ], 
+                [
+                    -64.06875765149492, 
+                    44.52817655508264
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460874, 
+    "properties": {
+        "geom:bounds": "-64.0755173254,44.5246494091,-64.0687576515,44.5283149424", 
+        "geom:latitude": 44.52648954264878, 
+        "geom:longitude": -64.07213177532918, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 44.52648956090875, 
+        "label:longitude": -64.07213168500736, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187490, 
+        "ol:land_designation": "Reserve Addition", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Blandford Nature Reserve Addition", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -45,6 +45,21 @@ _Data Store of the National Park Service._
 * **url_home**: [https://irma.nps.gov/DataStore/](https://irma.nps.gov/DataStore/)
 * **url_archive**: [https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True](https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True)
 
+## Nova Scotia Government's Open Data Portal
+
+_The Nova Scotia Government's open data portal_ 
+
+* **id**: 102345686
+* **name**: Nova Scotia Government's Open Data Portal
+* **prefix**: nsg
+* **access_date**: 2018-06-16
+* **license_type**: Open Government Licence - Nova Scotia (CC-BY)
+* **license_text**: You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.
+* **url_license**: [https://novascotia.ca/opendata/licence.asp](https://novascotia.ca/opendata/licence.asp)
+* **url_download**: [https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu](https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu)
+* **url_home**: [https://data.novascotia.ca/](https://data.novascotia.ca/)
+* **url_archive**: [https://web.archive.org/web/20180616215713/https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu](https://web.archive.org/web/20180616215713/https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu)
+
 ## Open Alberta
 
 _Government of Alberta open data portal._ 

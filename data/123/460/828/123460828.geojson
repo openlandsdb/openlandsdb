@@ -1,0 +1,64 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.39749941934556, 
+                    45.29988642415391
+                ], 
+                [
+                    -64.39770352820794, 
+                    45.29986396082929
+                ], 
+                [
+                    -64.3977645377397, 
+                    45.30003176671894
+                ], 
+                [
+                    -64.39796438100342, 
+                    45.300581434935765
+                ], 
+                [
+                    -64.39774040412651, 
+                    45.300602602658024
+                ], 
+                [
+                    -64.3975387433269, 
+                    45.30062098542135
+                ], 
+                [
+                    -64.397361686352, 
+                    45.3000319622288
+                ], 
+                [
+                    -64.39732689160202, 
+                    45.299916187939274
+                ], 
+                [
+                    -64.39749941934556, 
+                    45.29988642415391
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460828, 
+    "properties": {
+        "geom:bounds": "-64.397964381,45.2998639608,-64.3973268916,45.3006209854", 
+        "geom:latitude": 45.30025066743367, 
+        "geom:longitude": -64.39763589196, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.30024200025721, 
+        "label:longitude": -64.3976335746139, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187490, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Scots Bay North Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

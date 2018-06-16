@@ -1,0 +1,60 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.41075539429426, 
+                    45.19892443559893
+                ], 
+                [
+                    -64.41114142530321, 
+                    45.19852822093061
+                ], 
+                [
+                    -64.41139395456821, 
+                    45.19856441001362
+                ], 
+                [
+                    -64.41141325007227, 
+                    45.19868310101909
+                ], 
+                [
+                    -64.41143302815341, 
+                    45.19875848822686
+                ], 
+                [
+                    -64.41138686477424, 
+                    45.198772507251604
+                ], 
+                [
+                    -64.41077515865003, 
+                    45.19899981408552
+                ], 
+                [
+                    -64.41075539429426, 
+                    45.19892443559893
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460718, 
+    "properties": {
+        "geom:bounds": "-64.4114330282,45.1985282209,-64.4107553943,45.1989998141", 
+        "geom:latitude": 45.198745908831306, 
+        "geom:longitude": -64.41112000935198, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.19869084575687, 
+        "label:longitude": -64.41118628395557, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187488, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Blomidon Lookoff Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

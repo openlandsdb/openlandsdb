@@ -1,0 +1,56 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -62.61982185975548, 
+                    44.842063514800586
+                ], 
+                [
+                    -62.61978353264769, 
+                    44.841692326514504
+                ], 
+                [
+                    -62.61989725356484, 
+                    44.84183358011866
+                ], 
+                [
+                    -62.62045591292802, 
+                    44.84259310621295
+                ], 
+                [
+                    -62.620468893253275, 
+                    44.842610748602446
+                ], 
+                [
+                    -62.62012531825788, 
+                    44.84242398145047
+                ], 
+                [
+                    -62.61982185975548, 
+                    44.842063514800586
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460808, 
+    "properties": {
+        "geom:bounds": "-62.6204688933,44.8416923265,-62.6197835326,44.8426107486", 
+        "geom:latitude": 44.84217592559925, 
+        "geom:longitude": -62.62005144174504, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 44.84222440094576, 
+        "label:longitude": -62.620078672759, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187490, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Spry Bay Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

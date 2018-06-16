@@ -1,0 +1,64 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -62.93444703656886, 
+                    44.89064056514677
+                ], 
+                [
+                    -62.93047610910471, 
+                    44.88333023520025
+                ], 
+                [
+                    -62.92596471731593, 
+                    44.88455973470037
+                ], 
+                [
+                    -62.9239009350977, 
+                    44.88062074596791
+                ], 
+                [
+                    -62.931839153438034, 
+                    44.879002758833145
+                ], 
+                [
+                    -62.93219956688206, 
+                    44.87892928202425
+                ], 
+                [
+                    -62.93227677429326, 
+                    44.879070391032315
+                ], 
+                [
+                    -62.93807117395578, 
+                    44.88965754196101
+                ], 
+                [
+                    -62.93444703656886, 
+                    44.89064056514677
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460870, 
+    "properties": {
+        "geom:bounds": "-62.938071174,44.878929282,-62.9239009351,44.8906405651", 
+        "geom:latitude": 44.88392861445853, 
+        "geom:longitude": -62.9314516131307, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 44.88331316620107, 
+        "label:longitude": -62.93252506331535, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187490, 
+        "ol:land_designation": "Nature Reserve", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Cowan Brook Nature Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

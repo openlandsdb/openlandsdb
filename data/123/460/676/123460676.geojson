@@ -1,0 +1,68 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -66.05357465999963, 
+                    43.89129481360306
+                ], 
+                [
+                    -66.0537323511985, 
+                    43.89110702116346
+                ], 
+                [
+                    -66.0547109492895, 
+                    43.89115277720381
+                ], 
+                [
+                    -66.0547022079751, 
+                    43.891160771822065
+                ], 
+                [
+                    -66.05467679669718, 
+                    43.89118531013234
+                ], 
+                [
+                    -66.05461000131152, 
+                    43.89124922817329
+                ], 
+                [
+                    -66.05456140648167, 
+                    43.89129488696104
+                ], 
+                [
+                    -66.05453113540675, 
+                    43.89132737001531
+                ], 
+                [
+                    -66.05439532377981, 
+                    43.891474352026805
+                ], 
+                [
+                    -66.05357465999963, 
+                    43.89129481360306
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460676, 
+    "properties": {
+        "geom:bounds": "-66.0547109493,43.8911070212,-66.05357466,43.891474352", 
+        "geom:latitude": 43.89126130060391, 
+        "geom:longitude": -66.054141878383, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 43.89127179603307, 
+        "label:longitude": -66.05413629531726, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187487, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Chebogue Meadows Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

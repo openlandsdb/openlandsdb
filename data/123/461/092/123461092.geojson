@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -60.339353329325824, 
+                    46.68254287326985
+                ], 
+                [
+                    -60.33845101723368, 
+                    46.68320085683988
+                ], 
+                [
+                    -60.33768252204494, 
+                    46.682706614437166
+                ], 
+                [
+                    -60.3385918964078, 
+                    46.6820433113756
+                ], 
+                [
+                    -60.339353329325824, 
+                    46.68254287326985
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461092, 
+    "properties": {
+        "geom:bounds": "-60.3393533293,46.6820433114,-60.337682522,46.6832008568", 
+        "geom:latitude": 46.682623076731836, 
+        "geom:longitude": -60.33851919772616, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 46.68262253313109, 
+        "label:longitude": -60.33852085014425, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "Ingonish Lighthouse National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

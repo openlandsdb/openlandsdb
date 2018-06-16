@@ -1,0 +1,52 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -65.30959127471074, 
+                    44.82238924154449
+                ], 
+                [
+                    -65.30876986756442, 
+                    44.82244006708192
+                ], 
+                [
+                    -65.30902169581466, 
+                    44.82228463717367
+                ], 
+                [
+                    -65.30922276963261, 
+                    44.82222025505339
+                ], 
+                [
+                    -65.30943812795182, 
+                    44.82222850101126
+                ], 
+                [
+                    -65.30959127471074, 
+                    44.82238924154449
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461098, 
+    "properties": {
+        "geom:bounds": "-65.3095912747,44.8222202551,-65.3087698676,44.8224400671", 
+        "geom:latitude": 44.82233588575231, 
+        "geom:longitude": -65.30921685016396, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 44.822315747340426, 
+        "label:longitude": -65.30925683984792, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "Bloody Creek National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.24638213838244, 
+                    45.874791275572434
+                ], 
+                [
+                    -64.246225748739, 
+                    45.87492049306842
+                ], 
+                [
+                    -64.24589664864388, 
+                    45.87474743640493
+                ], 
+                [
+                    -64.24603517938083, 
+                    45.87461822511166
+                ], 
+                [
+                    -64.24638213838244, 
+                    45.874791275572434
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461086, 
+    "properties": {
+        "geom:bounds": "-64.2463821384,45.8746182251,-64.2458966486,45.8749204931", 
+        "geom:latitude": 45.87476964311682, 
+        "geom:longitude": -64.2461365974012, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.87475927838332, 
+        "label:longitude": -64.24611330569566, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "Chapman House Monument National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

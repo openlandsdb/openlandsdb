@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -65.47025532887872, 
+                    43.49501213947111
+                ], 
+                [
+                    -65.47021299572194, 
+                    43.4950719218027
+                ], 
+                [
+                    -65.47012983725469, 
+                    43.49504833751541
+                ], 
+                [
+                    -65.4701696871197, 
+                    43.494987708508376
+                ], 
+                [
+                    -65.47025532887872, 
+                    43.49501213947111
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461094, 
+    "properties": {
+        "geom:bounds": "-65.4702553289,43.4949877085,-65.4701298373,43.4950719218", 
+        "geom:latitude": 43.49502987053468, 
+        "geom:longitude": -65.47019205252403, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 43.495462318444616, 
+        "label:longitude": -65.47084298636906, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "Fort St. Louis National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}
