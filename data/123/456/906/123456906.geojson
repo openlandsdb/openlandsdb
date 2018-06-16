@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -88.7367556328955, 
+                    34.2552779562078
+                ], 
+                [
+                    -88.7374175016555, 
+                    34.255278475857
+                ], 
+                [
+                    -88.7374168234016, 
+                    34.255876142321
+                ], 
+                [
+                    -88.7367549499613, 
+                    34.2558756226603
+                ], 
+                [
+                    -88.7367556328955, 
+                    34.2552779562078
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123456906, 
+    "properties": {
+        "geom:bounds": "-88.7374175017,34.2552779562,-88.73675495,34.2558761423", 
+        "geom:latitude": 34.25557704961371, 
+        "geom:longitude": -88.7370862269788, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 34.25557704506238, 
+        "label:longitude": -88.7370808786309, 
+        "ol:concordances": {
+            "nps:gnis_id": 1888969
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172507, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Tupelo National Battlefield", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

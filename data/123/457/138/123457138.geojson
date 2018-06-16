@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -73.9890129403993, 
+                    40.73844941466538
+                ], 
+                [
+                    -73.9891713488416, 
+                    40.73851511361389
+                ], 
+                [
+                    -73.9890124191787, 
+                    40.73873681497311
+                ], 
+                [
+                    -73.98885401036603, 
+                    40.738671115808025
+                ], 
+                [
+                    -73.9890129403993, 
+                    40.73844941466538
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457138, 
+    "properties": {
+        "geom:bounds": "-73.9891713488,40.7384494147,-73.9888540104,40.738736815", 
+        "geom:latitude": 40.738593114813554, 
+        "geom:longitude": -73.98901267966542, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 40.738592271069614, 
+        "label:longitude": -73.989013920193, 
+        "ol:concordances": {
+            "nps:gnis_id": 2083047
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172513, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Theodore Roosevelt Birthplace National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

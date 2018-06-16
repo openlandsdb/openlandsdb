@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -112.74210518463187, 
+                    36.86101375084945
+                ], 
+                [
+                    -112.7421105732397, 
+                    36.86463987693026
+                ], 
+                [
+                    -112.73760780598434, 
+                    36.86463992004641
+                ], 
+                [
+                    -112.73760361496598, 
+                    36.861012692186826
+                ], 
+                [
+                    -112.74210518463187, 
+                    36.86101375084945
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123456944, 
+    "properties": {
+        "geom:bounds": "-112.742110573,36.8610126922,-112.737603615,36.86463992", 
+        "geom:latitude": 36.86282664048026, 
+        "geom:longitude": -112.73985668081846, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 36.86282656015763, 
+        "label:longitude": -112.73985556523971, 
+        "ol:concordances": {
+            "nps:gnis_id": 9526
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172509, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Pipe Spring National Monument", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

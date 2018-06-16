@@ -1,0 +1,57 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -75.14738255508365, 
+                    39.94350310790658
+                ], 
+                [
+                    -75.14724095180223, 
+                    39.94348525684895
+                ], 
+                [
+                    -75.14724970430396, 
+                    39.94344444742852
+                ], 
+                [
+                    -75.14725830189147, 
+                    39.94340293143473
+                ], 
+                [
+                    -75.14740022412151, 
+                    39.9434213005272
+                ], 
+                [
+                    -75.14739116057466, 
+                    39.943462687865036
+                ], 
+                [
+                    -75.14738255508365, 
+                    39.94350310790658
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457078, 
+    "properties": {
+        "geom:bounds": "-75.1474002241,39.9434029314,-75.1472409518,39.9435031079", 
+        "geom:latitude": 39.943453121186515, 
+        "geom:longitude": -75.14732045247769, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 39.943300591623206, 
+        "label:longitude": -75.14703349148915, 
+        "ol:concordances": {
+            "nps:gnis_id": 1888966
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172512, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Thaddeus Kosciuszko National Memorial", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

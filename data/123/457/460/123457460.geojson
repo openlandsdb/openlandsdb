@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -77.00406278255753, 
+                    38.89250271454166
+                ], 
+                [
+                    -77.00365873880763, 
+                    38.89250272789581
+                ], 
+                [
+                    -77.00365872042013, 
+                    38.89214418573123
+                ], 
+                [
+                    -77.00406276213945, 
+                    38.89214417237717
+                ], 
+                [
+                    -77.00406278255753, 
+                    38.89250271454166
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457460, 
+    "properties": {
+        "geom:bounds": "-77.0040627826,38.8921441724,-77.0036587204,38.8925027279", 
+        "geom:latitude": 38.89232345028663, 
+        "geom:longitude": -77.0038607509812, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 38.892323450966444, 
+        "label:longitude": -77.00383563928806, 
+        "ol:concordances": {
+            "nps:gnis_id": 2781517
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172578, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Belmont-Paul Women's Equality National Monument", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

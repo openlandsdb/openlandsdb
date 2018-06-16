@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -77.03117786131044, 
+                    38.9082972273522
+                ], 
+                [
+                    -77.03072218507079, 
+                    38.908131933191235
+                ], 
+                [
+                    -77.03075751280424, 
+                    38.908069509388895
+                ], 
+                [
+                    -77.03121015467758, 
+                    38.90823717069609
+                ], 
+                [
+                    -77.03117786131044, 
+                    38.9082972273522
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123456938, 
+    "properties": {
+        "geom:bounds": "-77.0312101547,38.9080695094,-77.0307221851,38.9082972274", 
+        "geom:latitude": 38.908183320752094, 
+        "geom:longitude": -77.03096513118352, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 38.90811369699493, 
+        "label:longitude": -77.03077543061796, 
+        "ol:concordances": {
+            "nps:gnis_id": 2733422
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172509, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Mary McLeod Bethune Council House National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

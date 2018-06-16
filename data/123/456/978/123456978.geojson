@@ -1,0 +1,57 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -94.35991054094936, 
+                    36.99209432960395
+                ], 
+                [
+                    -94.35084761860317, 
+                    36.9919176774265
+                ], 
+                [
+                    -94.35120678718619, 
+                    36.9810120517094
+                ], 
+                [
+                    -94.355557608082, 
+                    36.98110629548991
+                ], 
+                [
+                    -94.3554904985145, 
+                    36.98367744078339
+                ], 
+                [
+                    -94.3601523288245, 
+                    36.983765021999574
+                ], 
+                [
+                    -94.35991054094936, 
+                    36.99209432960395
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123456978, 
+    "properties": {
+        "geom:bounds": "-94.3601523288,36.9810120517,-94.3508476186,36.9920943296", 
+        "geom:latitude": 36.987132027518946, 
+        "geom:longitude": -94.35522735142825, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 36.98784370878706, 
+        "label:longitude": -94.35553756211898, 
+        "ol:concordances": {
+            "nps:gnis_id": 718402
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172509, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "George Washington Carver National Monument", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}
