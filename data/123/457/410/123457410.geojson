@@ -27243,11 +27243,12 @@
             "nps:gnis_id": 1416034
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172556, 
+        "ol:date_modified": 1529173060, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Aniakchak National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

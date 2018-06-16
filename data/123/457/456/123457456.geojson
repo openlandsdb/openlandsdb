@@ -4425,11 +4425,12 @@
             "nps:gnis_id": 2733439
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172578, 
+        "ol:date_modified": 1529173083, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Pennsylvania Avenue National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -1239,11 +1239,12 @@
             "nps:gnis_id": 595218
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172515, 
+        "ol:date_modified": 1529173019, 
+        "ol:land_designation": "National Monument and Historic Shrine", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Fort McHenry National Monument and Historic Shrine", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -171,11 +171,12 @@
             "nps:gnis_id": 1006677
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172581, 
+        "ol:date_modified": 1529173085, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Carl Sandburg Home National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

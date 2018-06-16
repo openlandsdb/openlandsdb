@@ -605,11 +605,12 @@
             "nps:gnis_id": 2766708
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172548, 
+        "ol:date_modified": 1529173052, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Minidoka National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

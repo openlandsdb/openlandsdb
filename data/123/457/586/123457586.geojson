@@ -50329,11 +50329,12 @@
             "nps:gnis_id": 1888902
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172587, 
+        "ol:date_modified": 1529173091, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Big Thicket National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

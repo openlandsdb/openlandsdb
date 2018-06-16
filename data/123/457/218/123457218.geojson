@@ -1967,11 +1967,12 @@
             "nps:gnis_id": 826917
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172514, 
+        "ol:date_modified": 1529173017, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Agate Fossil Beds National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

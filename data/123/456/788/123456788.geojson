@@ -3105,11 +3105,12 @@
             "nps:gnis_id": 2055170
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172478, 
+        "ol:date_modified": 1529172980, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Lewis and Clark National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

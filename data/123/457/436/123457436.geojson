@@ -32495,11 +32495,12 @@
             "nps:gnis_id": 1416046
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172570, 
+        "ol:date_modified": 1529173074, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Kobuk Valley National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

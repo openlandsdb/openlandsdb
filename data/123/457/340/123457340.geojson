@@ -19395,11 +19395,12 @@
             "nps:gnis_id": 1888970
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172548, 
+        "ol:date_modified": 1529173051, 
+        "ol:land_designation": "Scenic and Recreational River", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Upper Delaware Scenic and Recreational River", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

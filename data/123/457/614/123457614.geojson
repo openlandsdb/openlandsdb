@@ -13821,11 +13821,12 @@
             "nps:gnis_id": 446903
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172590, 
+        "ol:date_modified": 1529173094, 
+        "ol:land_designation": "National Lakeshore", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Indiana Dunes National Lakeshore", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

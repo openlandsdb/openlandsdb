@@ -2463,11 +2463,12 @@
             "nps:gnis_id": 1877617
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172504, 
+        "ol:date_modified": 1529173007, 
+        "ol:land_designation": "National Scenic River", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Bluestone National Scenic River", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -15993,11 +15993,12 @@
             "nps:gnis_id": 1009494
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172504, 
+        "ol:date_modified": 1529173006, 
+        "ol:land_designation": "Parkway", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Blue Ridge Parkway", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

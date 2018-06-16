@@ -19433,11 +19433,12 @@
             "nps:gnis_id": 584569
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172510, 
+        "ol:date_modified": 1529173013, 
+        "ol:land_designation": "National Parkway", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "George Washington Memorial Parkway", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

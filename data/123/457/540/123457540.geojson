@@ -8705,11 +8705,12 @@
             "nps:gnis_id": 1581059
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172583, 
+        "ol:date_modified": 1529173087, 
+        "ol:land_designation": "National Lakeshore", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Apostle Islands National Lakeshore", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

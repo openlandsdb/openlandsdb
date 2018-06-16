@@ -4855,11 +4855,12 @@
             "nps:gnis_id": 600051
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172589, 
+        "ol:date_modified": 1529173093, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Minute Man National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

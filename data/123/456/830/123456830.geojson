@@ -331,11 +331,12 @@
             "nps:gnis_id": 985324
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172505, 
+        "ol:date_modified": 1529173008, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Fort Raleigh National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -6477,11 +6477,12 @@
             "nps:gnis_id": 2733449
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172556, 
+        "ol:date_modified": 1529173059, 
+        "ol:land_designation": "Wild River", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Alagnak Wild River", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

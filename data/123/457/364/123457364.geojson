@@ -1373,11 +1373,12 @@
             "nps:gnis_id": 1467038
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172549, 
+        "ol:date_modified": 1529173052, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "George Washington Birthplace National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -117,11 +117,12 @@
             "nps:gnis_id": 307632
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172509, 
+        "ol:date_modified": 1529173012, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Dry Tortugas National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

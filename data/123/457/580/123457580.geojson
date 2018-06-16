@@ -2931,11 +2931,12 @@
             "nps:gnis_id": 2733443
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172587, 
+        "ol:date_modified": 1529173091, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Great Sand Dunes National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

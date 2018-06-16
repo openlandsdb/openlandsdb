@@ -39,11 +39,12 @@
             "nps:gnis_id": 667556
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172507, 
+        "ol:date_modified": 1529173011, 
+        "ol:land_designation": "National Battlefield Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Brices Cross Roads National Battlefield Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

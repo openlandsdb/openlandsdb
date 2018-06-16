@@ -8477,11 +8477,12 @@
             "nps:gnis_id": 1309762
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172503, 
+        "ol:date_modified": 1529173006, 
+        "ol:land_designation": "National River and Recreation Area", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Big South Fork National River and Recreation Area", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

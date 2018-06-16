@@ -461,11 +461,12 @@
             "nps:gnis_id": 1888961
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172511, 
+        "ol:date_modified": 1529173014, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Salem Maritime National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

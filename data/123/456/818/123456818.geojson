@@ -15501,11 +15501,12 @@
             "nps:gnis_id": 1688073
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172504, 
+        "ol:date_modified": 1529173007, 
+        "ol:land_designation": "National Recreation Area", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Chattahoochee River National Recreation Area", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

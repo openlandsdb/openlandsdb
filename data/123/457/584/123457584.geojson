@@ -21125,11 +21125,12 @@
             "nps:gnis_id": 204948
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172587, 
+        "ol:date_modified": 1529173091, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Rocky Mountain National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

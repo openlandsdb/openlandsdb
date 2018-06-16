@@ -429,11 +429,12 @@
             "nps:gnis_id": 1477005
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172511, 
+        "ol:date_modified": 1529173014, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Booker T. Washington National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

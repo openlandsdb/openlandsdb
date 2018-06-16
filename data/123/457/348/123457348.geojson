@@ -24471,11 +24471,12 @@
             "nps:gnis_id": 44981
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172548, 
+        "ol:date_modified": 1529173052, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Canyon de Chelly National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

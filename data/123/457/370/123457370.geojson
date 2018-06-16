@@ -227,11 +227,12 @@
             "nps:gnis_id": 2775865
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172549, 
+        "ol:date_modified": 1529173053, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Waco Mammoth National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

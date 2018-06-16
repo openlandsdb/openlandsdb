@@ -17663,11 +17663,12 @@
             "nps:gnis_id": 266000
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172510, 
+        "ol:date_modified": 1529173013, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Sequoia National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

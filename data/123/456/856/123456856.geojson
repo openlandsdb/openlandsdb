@@ -21097,11 +21097,12 @@
             "nps:gnis_id": 1488805
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172506, 
+        "ol:date_modified": 1529173010, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Shenandoah National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -1865,11 +1865,12 @@
             "nps:gnis_id": 583623
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172512, 
+        "ol:date_modified": 1529173015, 
+        "ol:land_designation": "Other Designation", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Catoctin Mountain Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

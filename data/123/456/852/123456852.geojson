@@ -12875,11 +12875,12 @@
             "nps:gnis_id": 277109
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172506, 
+        "ol:date_modified": 1529173009, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Redwood National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

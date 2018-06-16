@@ -2591,11 +2591,12 @@
             "nps:gnis_id": 2783291
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172581, 
+        "ol:date_modified": 1529173085, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Harriet Tubman Underground Railroad National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

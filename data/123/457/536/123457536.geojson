@@ -6569,11 +6569,12 @@
             "nps:gnis_id": 530563
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172583, 
+        "ol:date_modified": 1529173087, 
+        "ol:land_designation": "Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Rock Creek Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -251,11 +251,12 @@
             "nps:gnis_id": 1967105
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172547, 
+        "ol:date_modified": 1529173051, 
+        "ol:land_designation": "National Memorial", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Port Chicago Naval Magazine National Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

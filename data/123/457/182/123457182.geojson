@@ -195,11 +195,12 @@
             "nps:gnis_id": 2002666
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172513, 
+        "ol:date_modified": 1529173017, 
+        "ol:land_designation": "Other Designation", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Martin Luther King, Jr., Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

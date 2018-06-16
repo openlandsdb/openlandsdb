@@ -5263,11 +5263,12 @@
             "nps:gnis_id": 1470042
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172507, 
+        "ol:date_modified": 1529173010, 
+        "ol:land_designation": "National Battlefield Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Manassas National Battlefield Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

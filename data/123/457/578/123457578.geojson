@@ -2065,11 +2065,12 @@
             "nps:gnis_id": 1888964
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172587, 
+        "ol:date_modified": 1529173091, 
+        "ol:land_designation": "National Battlefield", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Stones River National Battlefield", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

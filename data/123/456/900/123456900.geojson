@@ -2277,11 +2277,12 @@
             "nps:gnis_id": 1888900
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172507, 
+        "ol:date_modified": 1529173010, 
+        "ol:land_designation": "National Memorial", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Arlington House, The Robert E. Lee Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

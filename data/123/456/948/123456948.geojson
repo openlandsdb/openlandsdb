@@ -525,11 +525,12 @@
             "nps:gnis_id": 1304837
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172509, 
+        "ol:date_modified": 1529173012, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Andrew Johnson National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

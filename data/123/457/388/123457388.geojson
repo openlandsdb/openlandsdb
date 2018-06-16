@@ -12463,11 +12463,12 @@
             "nps:gnis_id": 1472799
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172553, 
+        "ol:date_modified": 1529173057, 
+        "ol:land_designation": "Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Prince William Forest Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

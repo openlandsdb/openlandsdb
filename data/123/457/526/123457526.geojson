@@ -16173,11 +16173,12 @@
             "nps:gnis_id": 2733411
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172581, 
+        "ol:date_modified": 1529173086, 
+        "ol:land_designation": "National Recreation River", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Missouri National Recreation River", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

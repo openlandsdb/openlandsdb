@@ -1237,11 +1237,12 @@
             "nps:gnis_id": 1888899
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172511, 
+        "ol:date_modified": 1529173014, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Adams National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

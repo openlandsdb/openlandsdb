@@ -1749,11 +1749,12 @@
             "nps:gnis_id": 1423115
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172570, 
+        "ol:date_modified": 1529173074, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Klondike Gold Rush National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

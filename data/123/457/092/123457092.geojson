@@ -1499,11 +1499,12 @@
             "nps:gnis_id": 1454484
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172512, 
+        "ol:date_modified": 1529173015, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Natural Bridges National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

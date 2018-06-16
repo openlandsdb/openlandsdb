@@ -405,11 +405,12 @@
             "nps:gnis_id": 1193713
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172515, 
+        "ol:date_modified": 1529173018, 
+        "ol:land_designation": "National Battlefield", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Fort Necessity National Battlefield", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

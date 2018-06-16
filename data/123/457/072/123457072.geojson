@@ -1601,11 +1601,12 @@
             "nps:gnis_id": 1879023
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172512, 
+        "ol:date_modified": 1529173015, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Kaloko-Honokohau National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

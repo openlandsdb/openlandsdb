@@ -407,11 +407,12 @@
             "nps:gnis_id": 2492338
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172510, 
+        "ol:date_modified": 1529173013, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Tuskegee Airmen National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

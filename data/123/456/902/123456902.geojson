@@ -5901,11 +5901,12 @@
             "nps:gnis_id": 490476
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172507, 
+        "ol:date_modified": 1529173010, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Cumberland Gap National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

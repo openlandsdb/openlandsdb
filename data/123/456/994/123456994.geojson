@@ -1457,11 +1457,12 @@
             "nps:gnis_id": 307730
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172509, 
+        "ol:date_modified": 1529173012, 
+        "ol:land_designation": "National Seashore", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Canaveral National Seashore", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

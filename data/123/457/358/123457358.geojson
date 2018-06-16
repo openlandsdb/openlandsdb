@@ -459,11 +459,12 @@
             "nps:gnis_id": 446882
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172549, 
+        "ol:date_modified": 1529173052, 
+        "ol:land_designation": "National Memorial", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Lincoln Boyhood National Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

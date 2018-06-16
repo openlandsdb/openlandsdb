@@ -10541,11 +10541,12 @@
             "nps:gnis_id": 2783292
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172589, 
+        "ol:date_modified": 1529173093, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Katahdin Woods And Waters National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -485,11 +485,12 @@
             "nps:gnis_id": 1417085
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172574, 
+        "ol:date_modified": 1529173078, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Sitka National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }
