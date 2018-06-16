@@ -62,9 +62,9 @@ if __name__ == '__main__':
             import_props['geom:longitude'] = xy.x
             import_props['geom:source'] = str(options.source)
             import_props['geom:source_alts'] = []
-            import_props['label:latitude'] = props['lbl_latitude']
-            import_props['label:longitude'] = props['lbl_longitude']
-            import_props['ol:concordances'] = {"dbc:orcs_primary":str(props['ORCS_PRIMARY'])}
+            import_props['label:latitude'] = props['latitude']
+            import_props['label:longitude'] = props['longitude']
+            import_props['ol:concordances'] = {"dbc:orcs_primary":str(props['ORCS_PRIMARY']),"dbc:orcs_secondary":str(props['ORCS_SECONDARY'])}
             import_props['ol:country'] = "CA"
             import_props['ol:date_modified'] = int(time.time())
             import_props['ol:land_designation'] = props['PROTECTED_LANDS_DESIGNATION'].title()
