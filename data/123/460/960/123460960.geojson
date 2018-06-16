@@ -1,0 +1,56 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -62.2396092924561, 
+                    45.30613384028939
+                ], 
+                [
+                    -62.249375637157215, 
+                    45.304956865936184
+                ], 
+                [
+                    -62.24814556935655, 
+                    45.3169712269927
+                ], 
+                [
+                    -62.245103968969936, 
+                    45.31868052761464
+                ], 
+                [
+                    -62.23532755596739, 
+                    45.31603784940467
+                ], 
+                [
+                    -62.235878212348965, 
+                    45.310663103304634
+                ], 
+                [
+                    -62.2396092924561, 
+                    45.30613384028939
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460960, 
+    "properties": {
+        "geom:bounds": "-62.2493756372,45.3049568659,-62.235327556,45.3186805276", 
+        "geom:latitude": 45.311797494291525, 
+        "geom:longitude": -62.24281273628825, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.31189446228404, 
+        "label:longitude": -62.24267896368552, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187497, 
+        "ol:land_designation": "Nature Reserve", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Indian Man Lake Nature Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

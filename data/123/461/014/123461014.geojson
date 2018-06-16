@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -60.739894552715676, 
+                    46.0791761966271
+                ], 
+                [
+                    -60.738707435349376, 
+                    46.0812682846297
+                ], 
+                [
+                    -60.73245442311452, 
+                    46.07954975581262
+                ], 
+                [
+                    -60.73364174807319, 
+                    46.077457736154145
+                ], 
+                [
+                    -60.739894552715676, 
+                    46.0791761966271
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461014, 
+    "properties": {
+        "geom:bounds": "-60.7398945527,46.0774577362,-60.7324544231,46.0812682846", 
+        "geom:latitude": 46.079362999916974, 
+        "geom:longitude": -60.736174538873804, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 46.07936297401417, 
+        "label:longitude": -60.73617446766825, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187501, 
+        "ol:land_designation": "Game Sanctuary", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Spectacle Island Game Sanctuary", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

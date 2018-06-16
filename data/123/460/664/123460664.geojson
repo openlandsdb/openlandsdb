@@ -1,0 +1,56 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.57357226885848, 
+                    45.06731113592233
+                ], 
+                [
+                    -64.57404248121262, 
+                    45.06727989965196
+                ], 
+                [
+                    -64.57473502325382, 
+                    45.069143395496766
+                ], 
+                [
+                    -64.57340314142238, 
+                    45.06973763022853
+                ], 
+                [
+                    -64.57253933325683, 
+                    45.067345539857804
+                ], 
+                [
+                    -64.57273417071218, 
+                    45.067338670431745
+                ], 
+                [
+                    -64.57357226885848, 
+                    45.06731113592233
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460664, 
+    "properties": {
+        "geom:bounds": "-64.5747350233,45.0672798997,-64.5725393333,45.0697376302", 
+        "geom:latitude": 45.06838850945676, 
+        "geom:longitude": -64.57365245753212, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.068398385800535, 
+        "label:longitude": -64.57367189656998, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187487, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Coldbrook Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

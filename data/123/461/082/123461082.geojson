@@ -1,0 +1,52 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.28045798446539, 
+                    45.11296692380821
+                ], 
+                [
+                    -64.2801559462249, 
+                    45.1138752475102
+                ], 
+                [
+                    -64.2801052248818, 
+                    45.11385268161974
+                ], 
+                [
+                    -64.27979471311114, 
+                    45.11362261166035
+                ], 
+                [
+                    -64.27865852247486, 
+                    45.11329190508301
+                ], 
+                [
+                    -64.28045798446539, 
+                    45.11296692380821
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461082, 
+    "properties": {
+        "geom:bounds": "-64.2804579845,45.1129669238,-64.2786585225,45.1138752475", 
+        "geom:latitude": 45.11335273369328, 
+        "geom:longitude": -64.27978534768164, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.113354585277456, 
+        "label:longitude": -64.27979334487445, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "New England Planters National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

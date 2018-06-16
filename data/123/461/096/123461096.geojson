@@ -1,0 +1,52 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -59.87094869143111, 
+                    46.13922525259796
+                ], 
+                [
+                    -59.870946883475995, 
+                    46.13924229528906
+                ], 
+                [
+                    -59.87094079474626, 
+                    46.13936451925899
+                ], 
+                [
+                    -59.87064182323469, 
+                    46.13935938718996
+                ], 
+                [
+                    -59.870644655271, 
+                    46.13922268195647
+                ], 
+                [
+                    -59.87094869143111, 
+                    46.13922525259796
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461096, 
+    "properties": {
+        "geom:bounds": "-59.8709486914,46.139222682,-59.8706418232,46.1393645193", 
+        "geom:latitude": 46.1392927988337, 
+        "geom:longitude": -59.87079426360277, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 46.13915294720503, 
+        "label:longitude": -59.87061279086756, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "Coal Industry National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

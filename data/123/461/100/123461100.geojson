@@ -1,0 +1,64 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.47663128892185, 
+                    45.09905759360328
+                ], 
+                [
+                    -64.47612846350621, 
+                    45.099119257974046
+                ], 
+                [
+                    -64.475951128646, 
+                    45.09851279623205
+                ], 
+                [
+                    -64.47646892181362, 
+                    45.09853202710077
+                ], 
+                [
+                    -64.4764704517395, 
+                    45.09853812852606
+                ], 
+                [
+                    -64.47650965331302, 
+                    45.09866848044494
+                ], 
+                [
+                    -64.47653574863364, 
+                    45.09874202958499
+                ], 
+                [
+                    -64.47659763789736, 
+                    45.09892662984936
+                ], 
+                [
+                    -64.47663128892185, 
+                    45.09905759360328
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123461100, 
+    "properties": {
+        "geom:bounds": "-64.4766312889,45.0985127962,-64.4759511286,45.099119258", 
+        "geom:latitude": 45.098806966777005, 
+        "geom:longitude": -64.47629034715368, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 45.098793052201316, 
+        "label:longitude": -64.47628835144121, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187504, 
+        "ol:land_designation": "National Historic Site", 
+        "ol:managing_agency": "Parks Canada", 
+        "ol:managing_agency_level": "National", 
+        "ol:name": "Abraham Gesner National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

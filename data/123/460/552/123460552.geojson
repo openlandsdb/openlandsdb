@@ -1,0 +1,60 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -61.3717792678448, 
+                    46.08176675439332
+                ], 
+                [
+                    -61.372350959328, 
+                    46.08069889818605
+                ], 
+                [
+                    -61.37257824312635, 
+                    46.08076343669521
+                ], 
+                [
+                    -61.37363455637651, 
+                    46.08106334552945
+                ], 
+                [
+                    -61.372549512515626, 
+                    46.083106699901016
+                ], 
+                [
+                    -61.3718225106583, 
+                    46.08259956060813
+                ], 
+                [
+                    -61.37179456388525, 
+                    46.08206141870068
+                ], 
+                [
+                    -61.3717792678448, 
+                    46.08176675439332
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460552, 
+    "properties": {
+        "geom:bounds": "-61.3736345564,46.0806988982,-61.3717792678,46.0831066999", 
+        "geom:latitude": 46.08179233108935, 
+        "geom:longitude": -61.37256640350902, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 46.081783429899346, 
+        "label:longitude": -61.37250659522799, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187485, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Mabou Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

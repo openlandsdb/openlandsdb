@@ -1,0 +1,48 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -64.92373248134676, 
+                    44.26829921625687
+                ], 
+                [
+                    -64.9367520749247, 
+                    44.26345956177042
+                ], 
+                [
+                    -64.93874662265631, 
+                    44.26835488428294
+                ], 
+                [
+                    -64.92572438216123, 
+                    44.27336901506096
+                ], 
+                [
+                    -64.92373248134676, 
+                    44.26829921625687
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460972, 
+    "properties": {
+        "geom:bounds": "-64.9387466227,44.2634595618,-64.9237324813,44.2733690151", 
+        "geom:latitude": 44.26838509117116, 
+        "geom:longitude": -64.93120688114563, 
+        "geom:source": "nsg", 
+        "geom:source_alts": [], 
+        "label:latitude": 44.26838940427106, 
+        "label:longitude": -64.93120692231149, 
+        "ol:concordances": {}, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529187498, 
+        "ol:land_designation": "Nature Reserve", 
+        "ol:managing_agency": "Nova Scotia Department of Natural Resources", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Eighteen Mile Brook Nature Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}
