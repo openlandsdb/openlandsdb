@@ -1,0 +1,16 @@
+{
+	"id": 102345680,
+	"name": "Canada.ca",
+	"prefix": "cca",
+	"access_date": "2018-06-15",
+	"description": "Canada.ca is the Government of Canada's digital presence.",
+	"notes": {
+		"2018-06-15": "Downloaded park boundary shapefile and sanitized properties for import."
+	},
+	"license_type": "Open Government Licence - Canada (CC-BY)",
+	"license_text": "You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.",
+	"url_license": "https://open.canada.ca/en/open-government-licence-canada",
+	"url_download": "http://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e",
+	"url_home": "https://www.canada.ca/en.html",
+	"url_archive": "https://web.archive.org/web/20180616065608/https://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e"
+}
