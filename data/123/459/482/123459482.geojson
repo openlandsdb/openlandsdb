@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -112.93815554647082, 
+                    54.37179511597554
+                ], 
+                [
+                    -112.93815407093045, 
+                    54.374122406588526
+                ], 
+                [
+                    -112.93698162583382, 
+                    54.37412215519108
+                ], 
+                [
+                    -112.93698229010853, 
+                    54.373141103289825
+                ], 
+                [
+                    -112.93698279177597, 
+                    54.37238316140229
+                ], 
+                [
+                    -112.93698318775382, 
+                    54.37179486461887
+                ], 
+                [
+                    -112.93815554647082, 
+                    54.37179511597554
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459482, 
+    "properties": {
+        "geom:bounds": "-112.938155546,54.3717948646,-112.936981626,54.3741224066", 
+        "geom:latitude": 54.37295864925549, 
+        "geom:longitude": -112.93756860866705, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.37295863608668, 
+        "label:longitude": -112.93757090785638, 
+        "ol:concordances": {
+            "oal:pasites_id": "10702"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Newbrook Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -115.29024599938403, 
+                    53.82457212888129
+                ], 
+                [
+                    -115.29024503244925, 
+                    53.8173466904313
+                ], 
+                [
+                    -115.3023740013274, 
+                    53.81739018687647
+                ], 
+                [
+                    -115.30237432309622, 
+                    53.82461570922038
+                ], 
+                [
+                    -115.29024599938403, 
+                    53.82457212888129
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459922, 
+    "properties": {
+        "geom:bounds": "-115.302374323,53.8173466904,-115.290245032,53.8246157092", 
+        "geom:latitude": 53.820981146866195, 
+        "geom:longitude": -115.29630985112067, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.82098117841005, 
+        "label:longitude": -115.29630971616757, 
+        "ol:concordances": {
+            "oal:pasites_id": "475"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Paddle River Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

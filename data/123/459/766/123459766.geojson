@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.24965929487917, 
+                    51.955102638642586
+                ], 
+                [
+                    -114.23803343275915, 
+                    51.9551459423695
+                ], 
+                [
+                    -114.23803969785934, 
+                    51.94791369126848
+                ], 
+                [
+                    -114.23804589631081, 
+                    51.940747322655014
+                ], 
+                [
+                    -114.24867863277522, 
+                    51.9406946322376
+                ], 
+                [
+                    -114.24910156177081, 
+                    51.9406925164484
+                ], 
+                [
+                    -114.24970718057752, 
+                    51.94068949024774
+                ], 
+                [
+                    -114.2496833495644, 
+                    51.94787189727553
+                ], 
+                [
+                    -114.24965929487917, 
+                    51.955102638642586
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459766, 
+    "properties": {
+        "geom:bounds": "-114.249707181,51.9406894902,-114.238033433,51.9551459424", 
+        "geom:latitude": 51.94791770545007, 
+        "geom:longitude": -114.24386243380044, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 51.94792136421197, 
+        "label:longitude": -114.24386255910304, 
+        "ol:concordances": {
+            "oal:pasites_id": "1045"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Red Lodge Provincial Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

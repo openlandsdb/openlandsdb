@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -119.8924252680161, 
+                    56.31191626271008
+                ], 
+                [
+                    -119.89883166977528, 
+                    56.31191214051893
+                ], 
+                [
+                    -119.89882565727194, 
+                    56.31913801215825
+                ], 
+                [
+                    -119.89882463122719, 
+                    56.32094377920455
+                ], 
+                [
+                    -119.88579121240886, 
+                    56.32094237298201
+                ], 
+                [
+                    -119.88579132875238, 
+                    56.319135553939326
+                ], 
+                [
+                    -119.88578666899419, 
+                    56.315543352287385
+                ], 
+                [
+                    -119.88578199225861, 
+                    56.31192018560094
+                ], 
+                [
+                    -119.8924252680161, 
+                    56.31191626271008
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459844, 
+    "properties": {
+        "geom:bounds": "-119.89883167,56.3119121405,-119.885781992,56.3209437792", 
+        "geom:latitude": 56.316428643081586, 
+        "geom:longitude": -119.89230890614982, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 56.31642970375053, 
+        "label:longitude": -119.89230915652418, 
+        "ol:concordances": {
+            "oal:pasites_id": "10086"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Ole's Lake Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

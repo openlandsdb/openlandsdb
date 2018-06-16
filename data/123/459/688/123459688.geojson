@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -118.68120714852473, 
+                    54.18419990320164
+                ], 
+                [
+                    -118.6842922775237, 
+                    54.184199574145595
+                ], 
+                [
+                    -118.68429249058183, 
+                    54.18530906444606
+                ], 
+                [
+                    -118.68291067615229, 
+                    54.18622075176051
+                ], 
+                [
+                    -118.68120774231764, 
+                    54.1873442325095
+                ], 
+                [
+                    -118.68120732158565, 
+                    54.1851033672569
+                ], 
+                [
+                    -118.68120714852473, 
+                    54.18419990320164
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459688, 
+    "properties": {
+        "geom:bounds": "-118.684292491,54.1841995741,-118.681207149,54.1873442325", 
+        "geom:latitude": 54.185344341971316, 
+        "geom:longitude": -118.68250396833612, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.18526626550258, 
+        "label:longitude": -118.68247365599699, 
+        "ol:concordances": {
+            "oal:pasites_id": "10113"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Southview Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

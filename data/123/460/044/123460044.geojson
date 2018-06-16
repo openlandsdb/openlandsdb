@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.27527336744451, 
+                    54.10131187042942
+                ], 
+                [
+                    -113.27528084466137, 
+                    54.09407985242597
+                ], 
+                [
+                    -113.28754217398406, 
+                    54.09408992225301
+                ], 
+                [
+                    -113.28753848472807, 
+                    54.101320502954366
+                ], 
+                [
+                    -113.27527336744451, 
+                    54.10131187042942
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460044, 
+    "properties": {
+        "geom:bounds": "-113.287542174,54.0940798524,-113.275273367,54.101320503", 
+        "geom:latitude": 54.09770072294424, 
+        "geom:longitude": -113.28140851403163, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.09770053673462, 
+        "label:longitude": -113.281408564082, 
+        "ol:concordances": {
+            "oal:pasites_id": "210"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Crippsdale Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

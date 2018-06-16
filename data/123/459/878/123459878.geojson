@@ -1,0 +1,70 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -111.3707885227689, 
+                    56.4207525995925
+                ], 
+                [
+                    -111.37083998087465, 
+                    56.42073286507821
+                ], 
+                [
+                    -111.37086460663734, 
+                    56.420752588076375
+                ], 
+                [
+                    -111.37120280703017, 
+                    56.42102349640954
+                ], 
+                [
+                    -111.37426863289114, 
+                    56.423478909073836
+                ], 
+                [
+                    -111.36695684485855, 
+                    56.42628314855532
+                ], 
+                [
+                    -111.36535447081701, 
+                    56.42500028353496
+                ], 
+                [
+                    -111.36892910905013, 
+                    56.42362935458344
+                ], 
+                [
+                    -111.36710248366896, 
+                    56.4221663357772
+                ], 
+                [
+                    -111.3707885227689, 
+                    56.4207525995925
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459878, 
+    "properties": {
+        "geom:bounds": "-111.374268633,56.4207328651,-111.365354471,56.4262831486", 
+        "geom:latitude": 56.42348156971545, 
+        "geom:longitude": -111.36983849660123, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 56.42286231951057, 
+        "label:longitude": -111.37058198408268, 
+        "ol:concordances": {
+            "oal:pasites_id": "10675"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Hangingstone Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

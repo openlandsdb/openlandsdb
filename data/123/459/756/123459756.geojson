@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.3016367354812, 
+                    52.48677800082997
+                ], 
+                [
+                    -114.30163374976271, 
+                    52.47957240016976
+                ], 
+                [
+                    -114.31348310318283, 
+                    52.47955498777372
+                ], 
+                [
+                    -114.3134790055706, 
+                    52.48674603153627
+                ], 
+                [
+                    -114.3016367354812, 
+                    52.48677800082997
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459756, 
+    "properties": {
+        "geom:bounds": "-114.313483103,52.4795549878,-114.30163375,52.4867780008", 
+        "geom:latitude": 52.48316250049275, 
+        "geom:longitude": -114.30755615022353, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.48316285926244, 
+        "label:longitude": -114.3075560588346, 
+        "ol:concordances": {
+            "oal:pasites_id": "375"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Medicine Lodge Hills Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

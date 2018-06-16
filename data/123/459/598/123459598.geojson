@@ -1,0 +1,62 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -116.20706409609794, 
+                    52.42765492087913
+                ], 
+                [
+                    -116.20838694764123, 
+                    52.42877413478872
+                ], 
+                [
+                    -116.20818563757464, 
+                    52.42885088422983
+                ], 
+                [
+                    -116.20775736133898, 
+                    52.42902463241365
+                ], 
+                [
+                    -116.20618539272131, 
+                    52.429717212799915
+                ], 
+                [
+                    -116.20572617270419, 
+                    52.42932880026264
+                ], 
+                [
+                    -116.20612887712343, 
+                    52.42806793573192
+                ], 
+                [
+                    -116.20706409609794, 
+                    52.42765492087913
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459598, 
+    "properties": {
+        "geom:bounds": "-116.208386948,52.4276549209,-116.205726173,52.4297172128", 
+        "geom:latitude": 52.428690120629625, 
+        "geom:longitude": -116.20686502763645, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.42858733240017, 
+        "label:longitude": -116.20684909893451, 
+        "ol:concordances": {
+            "oal:pasites_id": "10040"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Dry Haven Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

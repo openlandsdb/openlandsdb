@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.18785861289295, 
+                    53.85328771595652
+                ], 
+                [
+                    -114.18784951021445, 
+                    53.84663214226763
+                ], 
+                [
+                    -114.20008807042083, 
+                    53.846628593853744
+                ], 
+                [
+                    -114.20009953625662, 
+                    53.85339949513448
+                ], 
+                [
+                    -114.20010022566959, 
+                    53.85376563336044
+                ], 
+                [
+                    -114.18785927121682, 
+                    53.85376879384887
+                ], 
+                [
+                    -114.18785861289295, 
+                    53.85328771595652
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460062, 
+    "properties": {
+        "geom:bounds": "-114.200100226,53.8466285939,-114.18784951,53.8537687938", 
+        "geom:latitude": 53.85019890427456, 
+        "geom:longitude": -114.19397430854524, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.8501987907517, 
+        "label:longitude": -114.19397424749238, 
+        "ol:concordances": {
+            "oal:pasites_id": "268"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Kakina Lake Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

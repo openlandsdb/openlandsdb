@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -115.07433050943969, 
+                    53.263379664783194
+                ], 
+                [
+                    -115.07432696068524, 
+                    53.257950619026666
+                ], 
+                [
+                    -115.07431747710227, 
+                    53.25071660711942
+                ], 
+                [
+                    -115.08637351047015, 
+                    53.25073228351945
+                ], 
+                [
+                    -115.08637616759454, 
+                    53.257965974465186
+                ], 
+                [
+                    -115.08637814173714, 
+                    53.26339852227512
+                ], 
+                [
+                    -115.07433050943969, 
+                    53.263379664783194
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460030, 
+    "properties": {
+        "geom:bounds": "-115.086378142,53.2507166071,-115.074317477,53.2633985223", 
+        "geom:latitude": 53.257056009287254, 
+        "geom:longitude": -115.08035067501534, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.25705676991032, 
+        "label:longitude": -115.08035065720415, 
+        "ol:concordances": {
+            "oal:pasites_id": "139"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Easyford Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

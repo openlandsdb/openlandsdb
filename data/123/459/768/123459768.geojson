@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.91153687014821, 
+                    51.05245805870944
+                ], 
+                [
+                    -114.91153697404944, 
+                    51.05426596189395
+                ], 
+                [
+                    -114.90866822541065, 
+                    51.0542647163359
+                ], 
+                [
+                    -114.9086682330927, 
+                    51.052456870780546
+                ], 
+                [
+                    -114.91153687014821, 
+                    51.05245805870944
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459768, 
+    "properties": {
+        "geom:bounds": "-114.911536974,51.0524568708,-114.908668225,51.0542659619", 
+        "geom:latitude": 51.05336140779316, 
+        "geom:longitude": -114.91010258328953, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 51.05336140199796, 
+        "label:longitude": -114.91010273657614, 
+        "ol:concordances": {
+            "oal:pasites_id": "10187"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Crane Meadow Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

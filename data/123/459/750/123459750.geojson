@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.54531492886463, 
+                    52.771117670952
+                ], 
+                [
+                    -114.5453063727117, 
+                    52.763905934756615
+                ], 
+                [
+                    -114.5572432259388, 
+                    52.76398143945768
+                ], 
+                [
+                    -114.55726864535255, 
+                    52.77119303842899
+                ], 
+                [
+                    -114.54531492886463, 
+                    52.771117670952
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459750, 
+    "properties": {
+        "geom:bounds": "-114.557268645,52.7639059348,-114.545306373,52.7711930384", 
+        "geom:latitude": 52.76755036911299, 
+        "geom:longitude": -114.55128326157413, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.76754952050965, 
+        "label:longitude": -114.55128321787086, 
+        "ol:concordances": {
+            "oal:pasites_id": "524"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Wilson Creek Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

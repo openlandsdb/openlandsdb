@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -117.15907127170235, 
+                    55.457147200464384
+                ], 
+                [
+                    -117.1596057811193, 
+                    55.45776052292236
+                ], 
+                [
+                    -117.15540680632205, 
+                    55.45894207783378
+                ], 
+                [
+                    -117.15540803264662, 
+                    55.45817801410332
+                ], 
+                [
+                    -117.15907127170235, 
+                    55.457147200464384
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459644, 
+    "properties": {
+        "geom:bounds": "-117.159605781,55.4571472005,-117.155406806,55.4589420778", 
+        "geom:latitude": 55.45801477379782, 
+        "geom:longitude": -117.15737600573645, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 55.45800698030435, 
+        "label:longitude": -117.1573728782148, 
+        "ol:concordances": {
+            "oal:pasites_id": "10693"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Little Smoky River Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.08708454967889, 
+                    53.2942914389622
+                ], 
+                [
+                    -114.08713050853578, 
+                    53.28695760051244
+                ], 
+                [
+                    -114.0991400385649, 
+                    53.28691450921339
+                ], 
+                [
+                    -114.0990437359977, 
+                    53.29422550987109
+                ], 
+                [
+                    -114.08708454967889, 
+                    53.2942914389622
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459992, 
+    "properties": {
+        "geom:bounds": "-114.099140039,53.2869145092,-114.08708455,53.294291439", 
+        "geom:latitude": 53.290594704214776, 
+        "geom:longitude": -114.09309658701484, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.29059724561061, 
+        "label:longitude": -114.09309636831208, 
+        "ol:concordances": {
+            "oal:pasites_id": "56"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184638, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Thorsby Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

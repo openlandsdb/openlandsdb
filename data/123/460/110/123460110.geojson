@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.61614658661216, 
+                    53.48296603803564
+                ], 
+                [
+                    -114.61615203925591, 
+                    53.47576551049037
+                ], 
+                [
+                    -114.6161553023415, 
+                    53.46856558140304
+                ], 
+                [
+                    -114.62822994074637, 
+                    53.46853283866768
+                ], 
+                [
+                    -114.62822967723099, 
+                    53.47574845183124
+                ], 
+                [
+                    -114.6282293872255, 
+                    53.48296416139343
+                ], 
+                [
+                    -114.61614658661216, 
+                    53.48296603803564
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460110, 
+    "properties": {
+        "geom:bounds": "-114.628229941,53.4685328387,-114.616146587,53.482966038", 
+        "geom:latitude": 53.47575796421295, 
+        "geom:longitude": -114.62219273671275, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.4757571542449, 
+        "label:longitude": -114.62219280998332, 
+        "ol:concordances": {
+            "oal:pasites_id": "52"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Sundance Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

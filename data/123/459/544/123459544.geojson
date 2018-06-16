@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.41157867928762, 
+                    52.557725161560086
+                ], 
+                [
+                    -113.42342413558411, 
+                    52.557716026573836
+                ], 
+                [
+                    -113.42341690293925, 
+                    52.564942619536765
+                ], 
+                [
+                    -113.4115686505455, 
+                    52.56494830997046
+                ], 
+                [
+                    -113.41157867928762, 
+                    52.557725161560086
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459544, 
+    "properties": {
+        "geom:bounds": "-113.423424136,52.5577160266,-113.411568651,52.56494831", 
+        "geom:latitude": 52.56133317142615, 
+        "geom:longitude": -113.41749756283723, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.561333029577035, 
+        "label:longitude": -113.41749782871747, 
+        "ol:concordances": {
+            "oal:pasites_id": "356"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Magee Lake Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

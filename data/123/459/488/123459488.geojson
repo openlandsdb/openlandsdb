@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.32508301388681, 
+                    54.094065975156674
+                ], 
+                [
+                    -113.33746272932767, 
+                    54.09405870384243
+                ], 
+                [
+                    -113.33747791006637, 
+                    54.10031074228972
+                ], 
+                [
+                    -113.33347505914072, 
+                    54.099532272433414
+                ], 
+                [
+                    -113.32833410049223, 
+                    54.09742341763074
+                ], 
+                [
+                    -113.32508741952502, 
+                    54.09647545783886
+                ], 
+                [
+                    -113.32508301388681, 
+                    54.094065975156674
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459488, 
+    "properties": {
+        "geom:bounds": "-113.33747791,54.0940587038,-113.325083014,54.1003107423", 
+        "geom:latitude": 54.09646726047838, 
+        "geom:longitude": -113.3322415827968, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.09656819162094, 
+        "label:longitude": -113.33235954685038, 
+        "ol:concordances": {
+            "oal:pasites_id": "366"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Taylor Lake Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

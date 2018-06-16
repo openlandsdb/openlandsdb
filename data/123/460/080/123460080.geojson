@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.61371104584693, 
+                    52.64704272191462
+                ], 
+                [
+                    -114.61367232831277, 
+                    52.654241089769805
+                ], 
+                [
+                    -114.6017707426828, 
+                    52.65411890328297
+                ], 
+                [
+                    -114.60178138765048, 
+                    52.646979103056665
+                ], 
+                [
+                    -114.61371104584693, 
+                    52.64704272191462
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460080, 
+    "properties": {
+        "geom:bounds": "-114.613711046,52.6469791031,-114.601770743,52.6542410898", 
+        "geom:latitude": 52.650594120636626, 
+        "geom:longitude": -114.6077420230589, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.650595546134866, 
+        "label:longitude": -114.60774172101566, 
+        "ol:concordances": {
+            "oal:pasites_id": "279"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Open Creek Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.2875345808886, 
+                    54.07945765817126
+                ], 
+                [
+                    -113.28751872974377, 
+                    54.07222656833477
+                ], 
+                [
+                    -113.29979430910116, 
+                    54.072238213500334
+                ], 
+                [
+                    -113.29979734150189, 
+                    54.07946489041018
+                ], 
+                [
+                    -113.2875345808886, 
+                    54.07945765817126
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459724, 
+    "properties": {
+        "geom:bounds": "-113.299797342,54.0722265683,-113.28751873,54.0794648904", 
+        "geom:latitude": 54.07584620301679, 
+        "geom:longitude": -113.29366061673066, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.07584683309373, 
+        "label:longitude": -113.29366077553539, 
+        "ol:concordances": {
+            "oal:pasites_id": "365"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Redwater River Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

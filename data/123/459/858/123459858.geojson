@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.474921238472, 
+                    49.00629745783686
+                ], 
+                [
+                    -113.47492265180907, 
+                    48.99814818743736
+                ], 
+                [
+                    -113.48590638629344, 
+                    48.99812365812613
+                ], 
+                [
+                    -113.48592457417124, 
+                    49.006334206798684
+                ], 
+                [
+                    -113.474921238472, 
+                    49.00629745783686
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459858, 
+    "properties": {
+        "geom:bounds": "-113.485924574,48.9981236581,-113.474921238,49.0063342068", 
+        "geom:latitude": 49.0022270928503, 
+        "geom:longitude": -113.48042557571468, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 49.002225869665615, 
+        "label:longitude": -113.48042558353188, 
+        "ol:concordances": {
+            "oal:pasites_id": "499"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Outpost Wetlands Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}
