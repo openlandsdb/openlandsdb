@@ -45,3 +45,18 @@ _Data Store of the National Park Service._
 * **url_home**: [https://irma.nps.gov/DataStore/](https://irma.nps.gov/DataStore/)
 * **url_archive**: [https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True](https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True)
 
+## Open Alberta
+
+_Government of Alberta open data portal._ 
+
+* **id**: 102345684
+* **name**: Open Alberta
+* **prefix**: alp
+* **access_date**: 2018-06-16
+* **license_type**: Open Government Licence - Alberta (CC-BY)
+* **license_text**: You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.
+* **url_license**: [https://open.alberta.ca/licence](https://open.alberta.ca/licence)
+* **url_download**: [https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f](https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f)
+* **url_home**: [https://www.alberta.ca/open-government-program.aspx](https://www.alberta.ca/open-government-program.aspx)
+* **url_archive**: [https://web.archive.org/web/20180616211508/https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f](https://web.archive.org/web/20180616211508/https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f)
+
