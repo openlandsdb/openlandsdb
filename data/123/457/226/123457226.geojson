@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -119.0831305554484, 
+                    37.63349166669832
+                ], 
+                [
+                    -119.0831305556295, 
+                    37.597255555541594
+                ], 
+                [
+                    -119.09224166650957, 
+                    37.597255555559585
+                ], 
+                [
+                    -119.09224166659101, 
+                    37.63349166676261
+                ], 
+                [
+                    -119.0831305554484, 
+                    37.63349166669832
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457226, 
+    "properties": {
+        "geom:bounds": "-119.092241667,37.5972555555,-119.083130555,37.6334916668", 
+        "geom:latitude": 37.61537361122755, 
+        "geom:longitude": -119.0876861110456, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 37.61537361114053, 
+        "label:longitude": -119.08768606129976, 
+        "ol:concordances": {
+            "nps:gnis_id": 266641
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172514, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Devils Postpile National Monument", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

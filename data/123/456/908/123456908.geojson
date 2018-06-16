@@ -1,0 +1,49 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -88.7294608233786, 
+                    34.5059808524234
+                ], 
+                [
+                    -88.7285969832638, 
+                    34.5065383769424
+                ], 
+                [
+                    -88.7283220280264, 
+                    34.5062616708794
+                ], 
+                [
+                    -88.72919480211391, 
+                    34.505698381544
+                ], 
+                [
+                    -88.7294608233786, 
+                    34.5059808524234
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123456908, 
+    "properties": {
+        "geom:bounds": "-88.7294608234,34.5056983815,-88.728322028,34.5065383769", 
+        "geom:latitude": 34.50611958086535, 
+        "geom:longitude": -88.72889342710504, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 34.5061245999811, 
+        "label:longitude": -88.72888625382154, 
+        "ol:concordances": {
+            "nps:gnis_id": 667556
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172507, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Brices Cross Roads National Battlefield Site", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}

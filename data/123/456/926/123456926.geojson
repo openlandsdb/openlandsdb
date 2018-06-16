@@ -1,0 +1,57 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -77.02411570443331, 
+                    38.910787474087876
+                ], 
+                [
+                    -77.02453742421665, 
+                    38.91078738628545
+                ], 
+                [
+                    -77.0245374746026, 
+                    38.910933844465724
+                ], 
+                [
+                    -77.02438048909102, 
+                    38.9109338773281
+                ], 
+                [
+                    -77.02438051255547, 
+                    38.91100252101833
+                ], 
+                [
+                    -77.02411577716296, 
+                    38.91100257595861
+                ], 
+                [
+                    -77.02411570443331, 
+                    38.910787474087876
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123456926, 
+    "properties": {
+        "geom:bounds": "-77.0245374746,38.9107873863,-77.0241157044,38.911002576", 
+        "geom:latitude": 38.91088511311722, 
+        "geom:longitude": -77.02430875352051, 
+        "geom:source": "nps", 
+        "geom:source_alts": [], 
+        "label:latitude": 38.910894992124184, 
+        "label:longitude": -77.0242740120618, 
+        "ol:concordances": {
+            "nps:gnis_id": 2085144
+        }, 
+        "ol:country": "US", 
+        "ol:date_modified": 1529172508, 
+        "ol:managing_agency": "National Park Service", 
+        "ol:managing_agency_level": "Federal", 
+        "ol:name": "Carter G. Woodson National Historic Site", 
+        "ol:note": ""
+    }, 
+    "type": "feature"
+}
