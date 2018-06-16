@@ -119233,11 +119233,12 @@
             "nps:gnis_id": 1413640
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172573, 
+        "ol:date_modified": 1529173077, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Noatak National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

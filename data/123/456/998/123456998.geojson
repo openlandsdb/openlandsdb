@@ -1859,11 +1859,12 @@
             "nps:gnis_id": 255957
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172509, 
+        "ol:date_modified": 1529173013, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Cabrillo National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

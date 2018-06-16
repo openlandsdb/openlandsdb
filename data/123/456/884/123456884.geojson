@@ -99,11 +99,12 @@
             "nps:gnis_id": 202628
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172507, 
+        "ol:date_modified": 1529173010, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Yucca House National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

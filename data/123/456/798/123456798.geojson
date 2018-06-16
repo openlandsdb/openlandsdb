@@ -24739,11 +24739,12 @@
             "nps:gnis_id": 2035608
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172481, 
+        "ol:date_modified": 1529172984, 
+        "ol:land_designation": "National Historic Trail", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Ala Kahakai National Historic Trail", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

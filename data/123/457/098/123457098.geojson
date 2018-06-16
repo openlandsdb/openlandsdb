@@ -16057,11 +16057,12 @@
             "nps:gnis_id": 689020
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172512, 
+        "ol:date_modified": 1529173015, 
+        "ol:land_designation": "National Seashore", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Gulf Islands National Seashore", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

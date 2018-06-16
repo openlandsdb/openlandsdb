@@ -5655,11 +5655,12 @@
             "nps:gnis_id": 1528419
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172589, 
+        "ol:date_modified": 1529173094, 
+        "ol:land_designation": "National Recreation Area", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Ross Lake National Recreation Area", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

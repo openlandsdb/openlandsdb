@@ -1521,11 +1521,12 @@
             "nps:gnis_id": 203271
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172589, 
+        "ol:date_modified": 1529173093, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Black Canyon of the Gunnison National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

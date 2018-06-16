@@ -183,11 +183,12 @@
             "nps:gnis_id": 2733461
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172509, 
+        "ol:date_modified": 1529173012, 
+        "ol:land_designation": "National Scenic Trail", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Ice Age National Scenic Trail", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

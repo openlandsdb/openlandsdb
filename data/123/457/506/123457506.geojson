@@ -981,11 +981,12 @@
             "nps:gnis_id": 904780
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172581, 
+        "ol:date_modified": 1529173085, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Carlsbad Caverns National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

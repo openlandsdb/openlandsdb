@@ -1717,11 +1717,12 @@
             "nps:gnis_id": 914261
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172581, 
+        "ol:date_modified": 1529173085, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "White Sands National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

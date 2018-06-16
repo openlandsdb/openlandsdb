@@ -87665,11 +87665,12 @@
             "nps:gnis_id": 255952
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172546, 
+        "ol:date_modified": 1529173050, 
+        "ol:land_designation": "National Recreation Area", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Golden Gate National Recreation Area", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

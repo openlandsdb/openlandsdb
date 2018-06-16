@@ -29885,11 +29885,12 @@
             "nps:gnis_id": 1531834
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172478, 
+        "ol:date_modified": 1529172980, 
+        "ol:land_designation": "National Recreation Area", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Lake Roosevelt National Recreation Area", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

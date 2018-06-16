@@ -27849,11 +27849,12 @@
             "nps:gnis_id": 1966567
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172579, 
+        "ol:date_modified": 1529173083, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "National Park of American Samoa", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

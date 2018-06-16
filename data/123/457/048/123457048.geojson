@@ -1487,11 +1487,12 @@
             "nps:gnis_id": 530557
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172511, 
+        "ol:date_modified": 1529173014, 
+        "ol:land_designation": "National Memorial", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Thomas Jefferson Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

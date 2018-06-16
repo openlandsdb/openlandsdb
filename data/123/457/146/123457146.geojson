@@ -759,11 +759,12 @@
             "nps:gnis_id": 1223739
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172513, 
+        "ol:date_modified": 1529173016, 
+        "ol:land_designation": "National Military Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Kings Mountain National Military Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

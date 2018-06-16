@@ -447,11 +447,12 @@
             "nps:gnis_id": 1888965
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172553, 
+        "ol:date_modified": 1529173056, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Tallgrass Prairie National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

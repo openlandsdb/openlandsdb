@@ -9827,11 +9827,12 @@
             "nps:gnis_id": 1877618
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172506, 
+        "ol:date_modified": 1529173009, 
+        "ol:land_designation": "National River", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "New River Gorge National River", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

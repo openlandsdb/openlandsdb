@@ -1511,11 +1511,12 @@
             "nps:gnis_id": 589056
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172503, 
+        "ol:date_modified": 1529173006, 
+        "ol:land_designation": "National Seashore", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Assateague Island National Seashore", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

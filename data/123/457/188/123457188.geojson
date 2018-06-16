@@ -277,11 +277,12 @@
             "nps:gnis_id": 126026
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172513, 
+        "ol:date_modified": 1529173017, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Russell Cave National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

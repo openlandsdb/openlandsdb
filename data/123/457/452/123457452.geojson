@@ -26607,11 +26607,12 @@
             "nps:gnis_id": 1473199
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172578, 
+        "ol:date_modified": 1529173082, 
+        "ol:land_designation": "National Battlefield Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Richmond National Battlefield Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

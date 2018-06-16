@@ -4529,11 +4529,12 @@
             "nps:gnis_id": 1265096
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172547, 
+        "ol:date_modified": 1529173051, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Badlands National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

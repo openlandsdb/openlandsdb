@@ -3991,11 +3991,12 @@
             "nps:gnis_id": 2783287
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172583, 
+        "ol:date_modified": 1529173087, 
+        "ol:land_designation": "National Historic Trail", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Captain John Smith National Historic Trail", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

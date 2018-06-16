@@ -1325,11 +1325,12 @@
             "nps:gnis_id": 1597073
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172553, 
+        "ol:date_modified": 1529173056, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Fort Laramie National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

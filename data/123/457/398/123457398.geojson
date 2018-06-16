@@ -106821,11 +106821,12 @@
             "nps:gnis_id": 123648
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172554, 
+        "ol:date_modified": 1529173057, 
+        "ol:land_designation": "Parkway", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Natchez Trace Parkway", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

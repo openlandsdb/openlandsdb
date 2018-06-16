@@ -11017,11 +11017,12 @@
             "nps:gnis_id": 578853
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172481, 
+        "ol:date_modified": 1529172984, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Acadia National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

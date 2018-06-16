@@ -43691,11 +43691,12 @@
             "nps:gnis_id": 2766087
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172588, 
+        "ol:date_modified": 1529173093, 
+        "ol:land_designation": "Wild and Scenic River", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Rio Grande Wild and Scenic River", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

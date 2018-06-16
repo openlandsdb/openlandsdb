@@ -127,11 +127,12 @@
             "nps:gnis_id": 2733434
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172589, 
+        "ol:date_modified": 1529173093, 
+        "ol:land_designation": "National Battlefield Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "River Raisin National Battlefield Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

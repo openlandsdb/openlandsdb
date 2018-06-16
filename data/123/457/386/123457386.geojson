@@ -6053,11 +6053,12 @@
             "nps:gnis_id": 2738286
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172553, 
+        "ol:date_modified": 1529173056, 
+        "ol:land_designation": "National Scenic Riverway", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Lower Saint Croix National Scenic Riverway", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

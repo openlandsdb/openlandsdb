@@ -1495,11 +1495,12 @@
             "nps:gnis_id": 1616980
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172505, 
+        "ol:date_modified": 1529173008, 
+        "ol:land_designation": "National Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Isle Royale National Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

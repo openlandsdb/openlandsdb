@@ -19087,11 +19087,12 @@
             "nps:gnis_id": 1416045
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172561, 
+        "ol:date_modified": 1529173065, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Katmai National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

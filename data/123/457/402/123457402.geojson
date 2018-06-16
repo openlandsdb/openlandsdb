@@ -22245,11 +22245,12 @@
             "nps:gnis_id": 1488838
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172554, 
+        "ol:date_modified": 1529173058, 
+        "ol:land_designation": "National Military Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

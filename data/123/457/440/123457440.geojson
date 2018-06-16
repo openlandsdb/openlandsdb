@@ -49279,11 +49279,12 @@
             "nps:gnis_id": 1416049
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172572, 
+        "ol:date_modified": 1529173076, 
+        "ol:land_designation": "National Preserve", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Lake Clark National Preserve", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

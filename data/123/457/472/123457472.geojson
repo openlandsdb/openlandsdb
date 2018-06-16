@@ -36355,11 +36355,12 @@
             "nps:gnis_id": 1556735
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172580, 
+        "ol:date_modified": 1529173084, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Harpers Ferry National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

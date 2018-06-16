@@ -131,11 +131,12 @@
             "nps:gnis_id": 531319
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172578, 
+        "ol:date_modified": 1529173083, 
+        "ol:land_designation": "National Memorial", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "World War I Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

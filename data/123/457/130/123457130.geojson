@@ -647,11 +647,12 @@
             "nps:gnis_id": 765817
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172513, 
+        "ol:date_modified": 1529173016, 
+        "ol:land_designation": "National Memorial", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Jefferson National Expansion Memorial", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

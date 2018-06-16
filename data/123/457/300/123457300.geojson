@@ -1301,11 +1301,12 @@
             "nps:gnis_id": 600140
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172546, 
+        "ol:date_modified": 1529173049, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Boston National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

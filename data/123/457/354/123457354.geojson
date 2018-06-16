@@ -1113,11 +1113,12 @@
             "nps:gnis_id": 2775864
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172548, 
+        "ol:date_modified": 1529173052, 
+        "ol:land_designation": "National Historical Park", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Manhattan Project National Historical Park", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

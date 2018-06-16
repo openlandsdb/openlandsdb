@@ -319,11 +319,12 @@
             "nps:gnis_id": 1193717
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172513, 
+        "ol:date_modified": 1529173016, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Hopewell Furnace National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

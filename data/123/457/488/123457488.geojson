@@ -4305,11 +4305,12 @@
             "nps:gnis_id": 751466
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172580, 
+        "ol:date_modified": 1529173084, 
+        "ol:land_designation": "National Scenic Riverway", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Ozark National Scenic Riverway", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

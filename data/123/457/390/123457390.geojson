@@ -213,11 +213,12 @@
             "nps:gnis_id": 880864
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172553, 
+        "ol:date_modified": 1529173057, 
+        "ol:land_designation": "National Monument", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Statue Of Liberty National Monument", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

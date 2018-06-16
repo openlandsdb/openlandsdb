@@ -313,11 +313,12 @@
             "nps:gnis_id": 1888904
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172510, 
+        "ol:date_modified": 1529173013, 
+        "ol:land_designation": "National Historic Site", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Boston African American National Historic Site", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

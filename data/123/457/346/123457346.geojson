@@ -131,11 +131,12 @@
             "nps:gnis_id": 779820
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172548, 
+        "ol:date_modified": 1529173052, 
+        "ol:land_designation": "National Battlefield", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Big Hole National Battlefield", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -1131,11 +1131,12 @@
             "nps:gnis_id": 735922
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1529172583, 
+        "ol:date_modified": 1529173087, 
+        "ol:land_designation": "National Battlefield", 
         "ol:managing_agency": "National Park Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Wilson's Creek National Battlefield", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }
