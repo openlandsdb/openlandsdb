@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1324812.7919999994, 
+                    1018487.2630000003
+                ], 
+                [
+                    1324018.8240000005, 
+                    1016952.3179999962
+                ], 
+                [
+                    1322439.7500000005, 
+                    1017812.8120000008
+                ], 
+                [
+                    1323133.3750000002, 
+                    1019127.1879999992
+                ], 
+                [
+                    1324812.7919999994, 
+                    1018487.2630000003
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458016, 
+    "properties": {
+        "geom:bounds": "1322439.75,1016952.318,1324812.792,1019127.188", 
+        "geom:latitude": 1018084.5872505417, 
+        "geom:longitude": 1323621.2271404213, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1018100.7491648406, 
+        "label:longitude": 1323639.2047444747, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "4983"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181075, 
+        "ol:land_designation": "Protected Area", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Close-To-The-Edge Protected Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

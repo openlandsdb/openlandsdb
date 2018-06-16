@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1500862.4880000006, 
+                    593737.3929999983
+                ], 
+                [
+                    1500736.569, 
+                    594733.9660000028
+                ], 
+                [
+                    1501735.6669999994, 
+                    594860.2270000018
+                ], 
+                [
+                    1501861.5949999995, 
+                    593863.6520000007
+                ], 
+                [
+                    1500862.4880000006, 
+                    593737.3929999983
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458082, 
+    "properties": {
+        "geom:bounds": "1500736.569,593737.393,1501861.595,594860.227", 
+        "geom:latitude": 594298.808816936, 
+        "geom:longitude": 1501299.0800984192, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 594298.8096418352, 
+        "label:longitude": 1501299.0800900934, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3005"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181079, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Lily Pad Lake Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1155256.7489999998, 
+                    721415.6999999965
+                ], 
+                [
+                    1154417.367000001, 
+                    721380.3839999987
+                ], 
+                [
+                    1154381.2479999992, 
+                    722240.216000001
+                ], 
+                [
+                    1155220.6240000003, 
+                    722275.5320000025
+                ], 
+                [
+                    1155256.7489999998, 
+                    721415.6999999965
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457866, 
+    "properties": {
+        "geom:bounds": "1154381.248,721380.384,1155256.749,722275.532", 
+        "geom:latitude": 721827.9574895827, 
+        "geom:longitude": 1154818.9970419798, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 721827.9580057728, 
+        "label:longitude": 1154818.997072662, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3055"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181068, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Cardiff Mountain Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

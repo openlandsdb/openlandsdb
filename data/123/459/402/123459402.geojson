@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1451768.6990000003, 
+                    489939.05099999346
+                ], 
+                [
+                    1451732.5819999995, 
+                    490339.3630000008
+                ], 
+                [
+                    1452233.9599999993, 
+                    490384.0500000054
+                ], 
+                [
+                    1452269.672000001, 
+                    489983.7029999979
+                ], 
+                [
+                    1451768.6990000003, 
+                    489939.05099999346
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459402, 
+    "properties": {
+        "geom:bounds": "1451732.582,489939.051,1452269.672,490384.05", 
+        "geom:latitude": 490161.5686922353, 
+        "geom:longitude": 1452001.2257184586, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 490161.54149871663, 
+        "label:longitude": 1452001.2256512837, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0011"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181123, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Keremeos Columns Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

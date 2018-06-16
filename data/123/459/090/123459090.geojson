@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    816058.3659999992, 
+                    1657402.778999996
+                ], 
+                [
+                    816147.3659999996, 
+                    1659504.3639999991
+                ], 
+                [
+                    820735.5500000003, 
+                    1659310.388999993
+                ], 
+                [
+                    820646.879, 
+                    1657209.1799999978
+                ], 
+                [
+                    816058.3659999992, 
+                    1657402.778999996
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459090, 
+    "properties": {
+        "geom:bounds": "816058.366,1657209.18,820735.55,1659504.364", 
+        "geom:latitude": 1658356.6690624522, 
+        "geom:longitude": 818396.9689282931, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1658356.6828994108, 
+        "label:longitude": 818396.9689289763, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3058"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181110, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Blue/Dease Rivers Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

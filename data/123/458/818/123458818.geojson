@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1179636.6359999997, 
+                    1539589.0410000011
+                ], 
+                [
+                    1178238.114000001, 
+                    1539538.0539999972
+                ], 
+                [
+                    1178156.7109999997, 
+                    1541048.7740000007
+                ], 
+                [
+                    1179578.4820000003, 
+                    1541113.998999998
+                ], 
+                [
+                    1179636.6359999997, 
+                    1539589.0410000011
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458818, 
+    "properties": {
+        "geom:bounds": "1178156.711,1539538.054,1179636.636,1541113.999", 
+        "geom:latitude": 1540324.6493199111, 
+        "geom:longitude": 1178903.413571909, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1540322.6694906962, 
+        "label:longitude": 1178903.4135681312, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3047"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181099, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Parker Lake Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

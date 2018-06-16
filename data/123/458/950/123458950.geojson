@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    908005.7649999994, 
+                    1134437.0349999964
+                ], 
+                [
+                    907806.4769999996, 
+                    1134446.7320000008
+                ], 
+                [
+                    907819.5209999993, 
+                    1134848.5320000006
+                ], 
+                [
+                    908025.4079999994, 
+                    1134840.0660000043
+                ], 
+                [
+                    908427.8610000004, 
+                    1134824.8830000004
+                ], 
+                [
+                    908926.6190000002, 
+                    1134806.0650000013
+                ], 
+                [
+                    908910.9799999995, 
+                    1134403.4269999992
+                ], 
+                [
+                    908412.34, 
+                    1134421.7000000076
+                ], 
+                [
+                    908005.7649999994, 
+                    1134437.0349999964
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458950, 
+    "properties": {
+        "geom:bounds": "907806.477,1134403.427,908926.619,1134848.532", 
+        "geom:latitude": 1134625.6040320394, 
+        "geom:longitude": 908365.9209216209, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1134625.3352867328, 
+        "label:longitude": 908365.9209126376, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "4448"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181102, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Catherine Creek Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

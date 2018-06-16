@@ -1,0 +1,70 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    812199.3790000008, 
+                    1126485.0540000033
+                ], 
+                [
+                    812250.8890000008, 
+                    1126323.6270000022
+                ], 
+                [
+                    812262.2889999993, 
+                    1126327.3089999994
+                ], 
+                [
+                    812536.6920000004, 
+                    1125471.5040000016
+                ], 
+                [
+                    812432.0289999978, 
+                    1125446.823999999
+                ], 
+                [
+                    812382.435999999, 
+                    1125609.361999997
+                ], 
+                [
+                    812163.5230000003, 
+                    1126295.415000001
+                ], 
+                [
+                    812184.4140000005, 
+                    1126302.1610000022
+                ], 
+                [
+                    812135.4729999998, 
+                    1126455.535000002
+                ], 
+                [
+                    812199.3790000008, 
+                    1126485.0540000033
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458970, 
+    "properties": {
+        "geom:bounds": "812135.473,1125446.824,812536.692,1126485.054", 
+        "geom:latitude": 1125939.5649210606, 
+        "geom:longitude": 812332.426493076, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1125937.325686811, 
+        "label:longitude": 812332.4266125404, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "1088"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181103, 
+        "ol:land_designation": "Protected Area", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Nisga'A Memorial Lava Bed Protected Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

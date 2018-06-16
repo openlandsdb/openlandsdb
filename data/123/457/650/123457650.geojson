@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1168321.87, 
+                    986719.5130000003
+                ], 
+                [
+                    1166782.017000001, 
+                    986654.1879999954
+                ], 
+                [
+                    1166749.9970000004, 
+                    987566.2230000021
+                ], 
+                [
+                    1168283.044, 
+                    987631.313000002
+                ], 
+                [
+                    1168321.87, 
+                    986719.5130000003
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457650, 
+    "properties": {
+        "geom:bounds": "1166749.997,986654.188,1168321.87,987631.313", 
+        "geom:latitude": 987142.4730475129, 
+        "geom:longitude": 1167534.2526202954, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 987142.8104354402, 
+        "label:longitude": 1167534.2526186677, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3086"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181059, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Bednesti Lake Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

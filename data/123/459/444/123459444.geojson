@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    864628.012, 
+                    768987.3190000001
+                ], 
+                [
+                    863731.2990000006, 
+                    769025.1880000029
+                ], 
+                [
+                    863902.7430000006, 
+                    773114.368999999
+                ], 
+                [
+                    865667.6620000007, 
+                    773040.1229999978
+                ], 
+                [
+                    864628.012, 
+                    768987.3190000001
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459444, 
+    "properties": {
+        "geom:bounds": "863731.299,768987.319,865667.662,773114.369", 
+        "geom:latitude": 771263.0638253636, 
+        "geom:longitude": 864515.3540434011, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 771261.6358978078, 
+        "label:longitude": 864515.3540436807, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0344"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181123, 
+        "ol:land_designation": "Protected Area", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Hakai Conservation Study Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

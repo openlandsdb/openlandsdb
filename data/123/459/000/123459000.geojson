@@ -1,0 +1,54 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1004694.3910000001, 
+                    466415.21300000325
+                ], 
+                [
+                    1002478.7150000008, 
+                    466327.3680000007
+                ], 
+                [
+                    1002435.0840000004, 
+                    467423.85799999814
+                ], 
+                [
+                    1002924.8330000002, 
+                    467875.1909999978
+                ], 
+                [
+                    1004633.557999999, 
+                    467942.95900000073
+                ], 
+                [
+                    1004694.3910000001, 
+                    466415.21300000325
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459000, 
+    "properties": {
+        "geom:bounds": "1002435.084,466327.368,1004694.391,467942.959", 
+        "geom:latitude": 467115.70540373214, 
+        "geom:longitude": 1003588.3007118731, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 467136.43195395643, 
+        "label:longitude": 1003588.3007101081, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "9499"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181105, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Epper Passage Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

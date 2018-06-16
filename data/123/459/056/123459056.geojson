@@ -1,0 +1,54 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1191392.1519999993, 
+                    420879.0429999968
+                ], 
+                [
+                    1191406.2730000007, 
+                    420496.1889999993
+                ], 
+                [
+                    1190974.1139999994, 
+                    420476.07099999767
+                ], 
+                [
+                    1190961.114, 
+                    420864.225999997
+                ], 
+                [
+                    1191392.1319999993, 
+                    420879.5480000004
+                ], 
+                [
+                    1191392.1519999993, 
+                    420879.0429999968
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459056, 
+    "properties": {
+        "geom:bounds": "1190961.114,420476.071,1191406.273,420879.548", 
+        "geom:latitude": 420678.89304900315, 
+        "geom:longitude": 1191182.969869787, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 420678.953169181, 
+        "label:longitude": 1191182.9697964643, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0044"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181110, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Beaver Point Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

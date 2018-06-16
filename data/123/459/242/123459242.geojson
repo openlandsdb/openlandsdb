@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1742432.8720000014, 
+                    611661.6399999941
+                ], 
+                [
+                    1742405.264, 
+                    611676.4290000014
+                ], 
+                [
+                    1741468.7670000014, 
+                    612161.6199999955
+                ], 
+                [
+                    1741911.1179999993, 
+                    612857.9879999999
+                ], 
+                [
+                    1742251.0310000004, 
+                    612685.2189999977
+                ], 
+                [
+                    1742610.81, 
+                    612503.6389999976
+                ], 
+                [
+                    1743010.0389999994, 
+                    612562.9410000006
+                ], 
+                [
+                    1743129.113, 
+                    611766.4270000001
+                ], 
+                [
+                    1742432.8720000014, 
+                    611661.6399999941
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459242, 
+    "properties": {
+        "geom:bounds": "1741468.767,611661.64,1743129.113,612857.988", 
+        "geom:latitude": 612206.1372061368, 
+        "geom:longitude": 1742353.2760934238, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 612176.5763580888, 
+        "label:longitude": 1742337.4632700707, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3026"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181114, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Ram Creek Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

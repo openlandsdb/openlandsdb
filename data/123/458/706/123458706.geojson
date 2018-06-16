@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    816757.5810000005, 
+                    981260.7460000012
+                ], 
+                [
+                    816545.7440000003, 
+                    981527.0389999999
+                ], 
+                [
+                    817216.6380000002, 
+                    982066.574000001
+                ], 
+                [
+                    817428.4739999978, 
+                    981800.2790000001
+                ], 
+                [
+                    816757.5810000005, 
+                    981260.7460000012
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458706, 
+    "properties": {
+        "geom:bounds": "816545.744,981260.746,817428.474,982066.574", 
+        "geom:latitude": 981663.659675395, 
+        "geom:longitude": 816987.1093615287, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 981663.659761095, 
+        "label:longitude": 816987.1094572863, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0482"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181093, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Coste Rocks Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

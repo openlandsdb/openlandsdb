@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1726209.9610000004, 
+                    626991.6779999947
+                ], 
+                [
+                    1726248.5920000002, 
+                    626692.004999999
+                ], 
+                [
+                    1725988.7150000005, 
+                    626658.7419999978
+                ], 
+                [
+                    1725950.1279999996, 
+                    626958.4900000002
+                ], 
+                [
+                    1726209.9610000004, 
+                    626991.6779999947
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458442, 
+    "properties": {
+        "geom:bounds": "1725950.128,626658.742,1726248.592,626991.678", 
+        "geom:latitude": 626825.2230454029, 
+        "geom:longitude": 1726099.3447224777, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 626825.2255595109, 
+        "label:longitude": 1726099.3442010374, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3019"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181086, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Mount Sabine Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}
