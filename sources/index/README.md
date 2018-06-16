@@ -15,6 +15,21 @@ _Canada.ca is the Government of Canada's digital presence._
 * **url_home**: [https://www.canada.ca/en.html](https://www.canada.ca/en.html)
 * **url_archive**: [https://web.archive.org/web/20180616065608/https://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e](https://web.archive.org/web/20180616065608/https://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e)
 
+## DataBC
+
+_The B.C. Government collects and produces a vast amount of data and provides many ways for it to be discovered, accessed and reused.  Foremost is the B.C. Data Catalogue - the central registry for ministries’ data, web applications and web services._ 
+
+* **id**: 102345682
+* **name**: DataBC
+* **prefix**: dbc
+* **access_date**: 2018-06-16
+* **license_type**: Open Government Licence - British Columbia (CC-BY)
+* **license_text**: You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.
+* **url_license**: [https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc)
+* **url_download**: [https://catalogue.data.gov.bc.ca/dataset/bc-parks-ecological-reserves-and-protected-areas#edc-pow](https://catalogue.data.gov.bc.ca/dataset/bc-parks-ecological-reserves-and-protected-areas#edc-pow)
+* **url_home**: [https://www2.gov.bc.ca/gov/content/data](https://www2.gov.bc.ca/gov/content/data)
+* **url_archive**: [https://web.archive.org/web/20180616200639/https://catalogue.data.gov.bc.ca/dataset/bc-parks-ecological-reserves-and-protected-areas](https://web.archive.org/web/20180616200639/https://catalogue.data.gov.bc.ca/dataset/bc-parks-ecological-reserves-and-protected-areas)
+
 ## National Park Service
 
 _Data Store of the National Park Service._ 
