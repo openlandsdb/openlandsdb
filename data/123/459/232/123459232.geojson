@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1061493.4859999993, 
+                    436904.4419999989
+                ], 
+                [
+                    1061436.8759999992, 
+                    438301.21899999864
+                ], 
+                [
+                    1062438.4819999991, 
+                    438340.648000001
+                ], 
+                [
+                    1062494.8929999992, 
+                    436944.7460000012
+                ], 
+                [
+                    1061493.4859999993, 
+                    436904.4419999989
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459232, 
+    "properties": {
+        "geom:bounds": "1061436.876,436904.442,1062494.893,438340.648", 
+        "geom:latitude": 437622.7806289101, 
+        "geom:longitude": 1061965.880794897, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 437622.74916762934, 
+        "label:longitude": 1061965.8808028037, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3024"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181113, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Baeria Rocks Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

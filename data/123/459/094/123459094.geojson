@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1392695.9749999996, 
+                    499355.5049999999
+                ], 
+                [
+                    1392294.8769999999, 
+                    499325.2739999993
+                ], 
+                [
+                    1392263.9010000003, 
+                    499728.060999996
+                ], 
+                [
+                    1392664.5650000004, 
+                    499758.79099999927
+                ], 
+                [
+                    1392717.4599999995, 
+                    499762.84899999853
+                ], 
+                [
+                    1392992.47, 
+                    499783.94300000276
+                ], 
+                [
+                    1393065.5759999994, 
+                    499789.55100000557
+                ], 
+                [
+                    1393096.3330000006, 
+                    499388.63199999835
+                ], 
+                [
+                    1392695.9749999996, 
+                    499355.5049999999
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459094, 
+    "properties": {
+        "geom:bounds": "1392263.901,499325.274,1393096.333,499789.551", 
+        "geom:latitude": 499557.4907489131, 
+        "geom:longitude": 1392679.888994519, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 499557.1296117641, 
+        "label:longitude": 1392679.8890531906, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3027"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181110, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Whipsaw Creek Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

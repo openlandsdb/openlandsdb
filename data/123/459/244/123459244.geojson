@@ -1,0 +1,62 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1317436.0850000002, 
+                    900233.3979999991
+                ], 
+                [
+                    1317474.0450000006, 
+                    899530.8260000022
+                ], 
+                [
+                    1317084.383, 
+                    899500.4220000003
+                ], 
+                [
+                    1315201.3840000003, 
+                    901164.1739999996
+                ], 
+                [
+                    1315135.0600000005, 
+                    902182.092000002
+                ], 
+                [
+                    1316148.743999999, 
+                    902228.4540000055
+                ], 
+                [
+                    1317388.6460000002, 
+                    901077.617999997
+                ], 
+                [
+                    1317436.0850000002, 
+                    900233.3979999991
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459244, 
+    "properties": {
+        "geom:bounds": "1315135.06,899500.422,1317474.045,902228.454", 
+        "geom:latitude": 901003.6631461997, 
+        "geom:longitude": 1316373.2015995546, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 901054.2793222272, 
+        "label:longitude": 1316395.4776494617, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3070"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181114, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Mount Tinsdale Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

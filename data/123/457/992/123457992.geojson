@@ -1,0 +1,54 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    840380.5619999999, 
+                    814418.9110000012
+                ], 
+                [
+                    839816.0949999997, 
+                    813306.4490000028
+                ], 
+                [
+                    839341.0319999998, 
+                    813326.3079999993
+                ], 
+                [
+                    839268.4719999991, 
+                    813329.3399999989
+                ], 
+                [
+                    839842.9370000008, 
+                    814441.7500000019
+                ], 
+                [
+                    840380.5619999999, 
+                    814418.9110000012
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457992, 
+    "properties": {
+        "geom:bounds": "839268.472,813306.449,840380.562,814441.75", 
+        "geom:latitude": 813872.4369137639, 
+        "geom:longitude": 839826.1437732441, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 813867.742226359, 
+        "label:longitude": 839826.1437773055, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0395"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181075, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Oliver Cove Marine Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

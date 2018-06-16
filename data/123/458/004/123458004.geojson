@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    833768.4650000005, 
+                    882303.2570000011
+                ], 
+                [
+                    833746.0650000002, 
+                    881773.216
+                ], 
+                [
+                    833204.62, 
+                    881796.1360000018
+                ], 
+                [
+                    832977.3999999977, 
+                    882336.7440000009
+                ], 
+                [
+                    833768.4650000005, 
+                    882303.2570000011
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458004, 
+    "properties": {
+        "geom:bounds": "832977.4,881773.216,833768.465,882336.744", 
+        "geom:latitude": 882069.0520314492, 
+        "geom:longitude": 833420.9400532156, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 882052.4735909969, 
+        "label:longitude": 833420.9400947823, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0394"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181075, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Green Inlet Marine Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

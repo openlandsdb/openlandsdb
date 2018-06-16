@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1297519.3480000002, 
+                    461674.13900000043
+                ], 
+                [
+                    1297536.5010000006, 
+                    461381.15399999917
+                ], 
+                [
+                    1297516.573000001, 
+                    461379.453999999
+                ], 
+                [
+                    1297455.2660000012, 
+                    461374.21899999585
+                ], 
+                [
+                    1297445.654, 
+                    461540.0760000013
+                ], 
+                [
+                    1297441.8109999993, 
+                    461608.42400000244
+                ], 
+                [
+                    1297433.298, 
+                    461764.04800000135
+                ], 
+                [
+                    1297513.677, 
+                    461771.0089999987
+                ], 
+                [
+                    1297519.3480000002, 
+                    461674.13900000043
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459054, 
+    "properties": {
+        "geom:bounds": "1297433.298,461374.219,1297536.501,461771.009", 
+        "geom:latitude": 461572.2618231124, 
+        "geom:longitude": 1297484.630197031, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 461572.61001370236, 
+        "label:longitude": 1297484.631002691, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3116"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181110, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Katherine Tye Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1206453.266999999, 
+                    521536.1130000055
+                ], 
+                [
+                    1206451.2379999994, 
+                    521536.56900000107
+                ], 
+                [
+                    1205284.6140000003, 
+                    521753.697999998
+                ], 
+                [
+                    1205308.6430000002, 
+                    521769.4079999998
+                ], 
+                [
+                    1206469.7499999993, 
+                    521553.46800000034
+                ], 
+                [
+                    1206471.5700000003, 
+                    521553.12099999934
+                ], 
+                [
+                    1206453.266999999, 
+                    521536.1130000055
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458472, 
+    "properties": {
+        "geom:bounds": "1205284.614,521536.113,1206471.57,521769.408", 
+        "geom:latitude": 521652.95049729187, 
+        "geom:longitude": 1205880.3166034552, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 521652.95856868435, 
+        "label:longitude": 1205880.2085104813, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0616"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181086, 
+        "ol:land_designation": "Protected Area", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Stawamus Chief Protected Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

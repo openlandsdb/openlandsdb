@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    664530.9160000002, 
+                    1616847.9839999997
+                ], 
+                [
+                    664370.9569999998, 
+                    1617180.7270000037
+                ], 
+                [
+                    664095.7820000006, 
+                    1617753.1260000044
+                ], 
+                [
+                    665880.3050000002, 
+                    1618608.2080000034
+                ], 
+                [
+                    666155.4730000001, 
+                    1618035.8080000016
+                ], 
+                [
+                    666318.4370000002, 
+                    1617701.8800000018
+                ], 
+                [
+                    664530.9160000002, 
+                    1616847.9839999997
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459234, 
+    "properties": {
+        "geom:bounds": "664095.782,1616847.984,666318.437,1618608.208", 
+        "geom:latitude": 1617727.748119325, 
+        "geom:longitude": 665206.4312855783, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1617727.9937558388, 
+        "label:longitude": 665206.4312864426, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3102"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181113, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Charlie Cole Creek Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

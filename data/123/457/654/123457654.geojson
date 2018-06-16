@@ -1,0 +1,62 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1337426.6859999993, 
+                    1280559.3520000065
+                ], 
+                [
+                    1337495.9290000002, 
+                    1279662.8379999967
+                ], 
+                [
+                    1336695.7530000005, 
+                    1279600.1240000017
+                ], 
+                [
+                    1336695.47, 
+                    1279603.800999998
+                ], 
+                [
+                    1336626.6909999999, 
+                    1280497.3530000038
+                ], 
+                [
+                    1336571.8710000005, 
+                    1281209.580000002
+                ], 
+                [
+                    1337371.7689999999, 
+                    1281272.2990000015
+                ], 
+                [
+                    1337426.6859999993, 
+                    1280559.3520000065
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457654, 
+    "properties": {
+        "geom:bounds": "1336571.871,1279600.124,1337495.929,1281272.299", 
+        "geom:latitude": 1280436.1609038992, 
+        "geom:longitude": 1337033.8145313587, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1280436.2100408713, 
+        "label:longitude": 1337033.8145865784, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3050"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181059, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Cecil Lake Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

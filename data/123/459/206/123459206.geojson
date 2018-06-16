@@ -1,0 +1,62 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1448939.4100000004, 
+                    910681.3899999987
+                ], 
+                [
+                    1449026.8120000004, 
+                    910689.7499999981
+                ], 
+                [
+                    1448917.9939999995, 
+                    910532.7630000021
+                ], 
+                [
+                    1448155.8830000008, 
+                    910436.868999999
+                ], 
+                [
+                    1448139.6880000008, 
+                    910604.8869999982
+                ], 
+                [
+                    1448517.3499999999, 
+                    910641.0150000006
+                ], 
+                [
+                    1448789.8429999999, 
+                    910667.0820000004
+                ], 
+                [
+                    1448939.4100000004, 
+                    910681.3899999987
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459206, 
+    "properties": {
+        "geom:bounds": "1448139.688,910436.869,1449026.812,910689.75", 
+        "geom:latitude": 910567.0567507538, 
+        "geom:longitude": 1448549.9178650926, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 910565.2898154756, 
+        "label:longitude": 1448549.917858777, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "5043"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181113, 
+        "ol:land_designation": "Protected Area", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Mount Robson Protected Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

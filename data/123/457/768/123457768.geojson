@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1450159.7470000007, 
+                    639550.0289999982
+                ], 
+                [
+                    1450008.4259999997, 
+                    639497.5169999972
+                ], 
+                [
+                    1449961.487, 
+                    639635.9869999988
+                ], 
+                [
+                    1450116.3510000005, 
+                    639686.7289999984
+                ], 
+                [
+                    1450159.7470000007, 
+                    639550.0289999982
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457768, 
+    "properties": {
+        "geom:bounds": "1449961.487,639497.517,1450159.747,639686.729", 
+        "geom:latitude": 639592.6817471825, 
+        "geom:longitude": 1450061.189673646, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 639592.240886113, 
+        "label:longitude": 1450061.1888064286, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "9383"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181065, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Pillar Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

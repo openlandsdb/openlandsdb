@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1398249.383, 
+                    660560.8789999988
+                ], 
+                [
+                    1397750.7539999997, 
+                    660538.9779999973
+                ], 
+                [
+                    1397719.9499999993, 
+                    661238.3959999988
+                ], 
+                [
+                    1398217.7780000006, 
+                    661279.794999999
+                ], 
+                [
+                    1398249.383, 
+                    660560.8789999988
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458234, 
+    "properties": {
+        "geom:bounds": "1397719.95,660538.978,1398249.383,661279.795", 
+        "geom:latitude": 660904.5912381444, 
+        "geom:longitude": 1397985.6072764792, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 660904.890589309, 
+        "label:longitude": 1397985.6072179805, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3110"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181081, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Mcqueen Creek Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

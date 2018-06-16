@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1500769.3080000007, 
+                    612416.9579999996
+                ], 
+                [
+                    1500710.2310000001, 
+                    613010.3329999978
+                ], 
+                [
+                    1501492.2890000008, 
+                    613088.9640000006
+                ], 
+                [
+                    1501553.2389999994, 
+                    612495.6970000016
+                ], 
+                [
+                    1500769.3080000007, 
+                    612416.9579999996
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458726, 
+    "properties": {
+        "geom:bounds": "1500710.231,612416.958,1501553.239,613088.964", 
+        "geom:latitude": 612752.8711113683, 
+        "geom:longitude": 1501131.2873954226, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 612752.9916093585, 
+        "label:longitude": 1501131.2873701989, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3030"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181094, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Vance Creek Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

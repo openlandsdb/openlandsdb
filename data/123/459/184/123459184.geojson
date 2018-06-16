@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1027436.9670000002, 
+                    1624575.9450000003
+                ], 
+                [
+                    1023366.3909999994, 
+                    1624995.2130000019
+                ], 
+                [
+                    1023050.1939999997, 
+                    1629427.9649999994
+                ], 
+                [
+                    1027941.7280000005, 
+                    1626413.7709999997
+                ], 
+                [
+                    1027436.9670000002, 
+                    1624575.9450000003
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459184, 
+    "properties": {
+        "geom:bounds": "1023050.194,1624575.945,1027941.728,1629427.965", 
+        "geom:latitude": 1626507.9117080367, 
+        "geom:longitude": 1025181.8687897853, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1626338.3108495045, 
+        "label:longitude": 1025135.2827558514, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "8312"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181113, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Grayling River Hotsprings Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

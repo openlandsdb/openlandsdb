@@ -1,0 +1,70 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1178941.3900000006, 
+                    444083.5720000006
+                ], 
+                [
+                    1179164.7280000004, 
+                    444091.4500000002
+                ], 
+                [
+                    1179502.0729999999, 
+                    443622.5820000004
+                ], 
+                [
+                    1179509.938999999, 
+                    443399.7550000064
+                ], 
+                [
+                    1179511.7150000003, 
+                    443349.4550000001
+                ], 
+                [
+                    1179436.8440000003, 
+                    443346.3210000014
+                ], 
+                [
+                    1179197.8309999993, 
+                    443623.63900000043
+                ], 
+                [
+                    1179000.490000001, 
+                    443460.38900000136
+                ], 
+                [
+                    1178964.4489999993, 
+                    443430.37599999644
+                ], 
+                [
+                    1178941.3900000006, 
+                    444083.5720000006
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457720, 
+    "properties": {
+        "geom:bounds": "1178941.39,443346.321,1179511.715,444091.45", 
+        "geom:latitude": 443735.5448234395, 
+        "geom:longitude": 1179194.3365068214, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 443801.7778282923, 
+        "label:longitude": 1179142.73558629, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3128"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181062, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Galiano Island Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

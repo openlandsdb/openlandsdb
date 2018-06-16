@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1608501.8830000008, 
+                    496789.322999998
+                ], 
+                [
+                    1607940.5269999993, 
+                    501205.59199999925
+                ], 
+                [
+                    1611177.758, 
+                    501617.68500000425
+                ], 
+                [
+                    1611739.6230000006, 
+                    497201.466
+                ], 
+                [
+                    1608501.8830000008, 
+                    496789.322999998
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459226, 
+    "properties": {
+        "geom:bounds": "1607940.527,496789.323,1611739.623,501617.685", 
+        "geom:latitude": 499203.4589632134, 
+        "geom:longitude": 1609839.9559706538, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 499203.518188028, 
+        "label:longitude": 1609839.955970744, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "0051"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181113, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Champion Lakes Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

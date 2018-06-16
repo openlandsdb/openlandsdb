@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1500207.5040000007, 
+                    594969.5660000006
+                ], 
+                [
+                    1500157.9020000007, 
+                    595362.146999999
+                ], 
+                [
+                    1500561.4350000008, 
+                    595413.1429999974
+                ], 
+                [
+                    1500611.0380000004, 
+                    595020.558000002
+                ], 
+                [
+                    1500207.5040000007, 
+                    594969.5660000006
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458922, 
+    "properties": {
+        "geom:bounds": "1500157.902,594969.566,1500611.038,595413.143", 
+        "geom:latitude": 595191.3535044952, 
+        "geom:longitude": 1500384.470102888, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 595191.3536532233, 
+        "label:longitude": 1500384.469959071, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3006"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181101, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Buck Hills Road Ecological Reserve", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

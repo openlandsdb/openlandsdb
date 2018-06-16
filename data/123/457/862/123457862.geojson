@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    767557.4269999979, 
+                    849927.5419999994
+                ], 
+                [
+                    777446.9029999981, 
+                    849507.4810000015
+                ], 
+                [
+                    776935.054, 
+                    837464.0760000004
+                ], 
+                [
+                    772766.6650000005, 
+                    837641.1249999972
+                ], 
+                [
+                    767045.0010000004, 
+                    837884.2390000029
+                ], 
+                [
+                    767046.3439999993, 
+                    837915.8209999986
+                ], 
+                [
+                    767557.4269999979, 
+                    849927.5419999994
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457862, 
+    "properties": {
+        "geom:bounds": "767045.001,837464.076,777446.903,849927.542", 
+        "geom:latitude": 843695.765741421, 
+        "geom:longitude": 772246.0988478147, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 843695.8159683759, 
+        "label:longitude": 772246.0990436675, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "3103"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181068, 
+        "ol:land_designation": "Ecological Reserve", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Byers/Conroy/Harvey/Sinnett Islands Ecological Res", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

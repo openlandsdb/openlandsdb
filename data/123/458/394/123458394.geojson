@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1400243.8900000004, 
+                    731517.0710000033
+                ], 
+                [
+                    1400225.8339999996, 
+                    731568.3360000057
+                ], 
+                [
+                    1400222.4540000004, 
+                    731577.9290000023
+                ], 
+                [
+                    1400139.9370000006, 
+                    731812.2050000019
+                ], 
+                [
+                    1400138.247000001, 
+                    731817.004999999
+                ], 
+                [
+                    1400494.7320000003, 
+                    731842.3669999996
+                ], 
+                [
+                    1400518.6390000002, 
+                    731542.8989999993
+                ], 
+                [
+                    1400258.7189999993, 
+                    731520.494
+                ], 
+                [
+                    1400243.8900000004, 
+                    731517.0710000033
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123458394, 
+    "properties": {
+        "geom:bounds": "1400138.247,731517.071,1400518.639,731842.367", 
+        "geom:latitude": 731686.5972316054, 
+        "geom:longitude": 1400346.911572433, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 731679.9732628092, 
+        "label:longitude": 1400346.9115312188, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "9719"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181085, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Eakin Creek Canyon Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

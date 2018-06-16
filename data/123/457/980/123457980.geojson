@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    1117127.1560000002, 
+                    1408108.1250000019
+                ], 
+                [
+                    1117095.846, 
+                    1408836.0289999936
+                ], 
+                [
+                    1117073.1469999999, 
+                    1409363.7569999956
+                ], 
+                [
+                    1118540.7359999998, 
+                    1409426.9699999914
+                ], 
+                [
+                    1118559.235, 
+                    1408996.7529999912
+                ], 
+                [
+                    1118594.7270000004, 
+                    1408171.3339999989
+                ], 
+                [
+                    1117127.1560000002, 
+                    1408108.1250000019
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123457980, 
+    "properties": {
+        "geom:bounds": "1117073.147,1408108.125,1118594.727,1409426.97", 
+        "geom:latitude": 1408767.547811303, 
+        "geom:longitude": 1117833.9416966732, 
+        "geom:source": "dbc", 
+        "geom:source_alts": [], 
+        "label:latitude": 1408767.546539276, 
+        "label:longitude": 1117833.9417232408, 
+        "ol:concordances": {
+            "dbc:orcs_primary": "8288"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529181074, 
+        "ol:land_designation": "Provincial Park", 
+        "ol:managing_agency": "BC Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Prophet River Hotsprings Park", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}
