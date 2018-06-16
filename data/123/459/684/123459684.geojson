@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -116.2499360311716, 
+                    52.43561915465472
+                ], 
+                [
+                    -116.24993514166943, 
+                    52.42838623245501
+                ], 
+                [
+                    -116.24401391624149, 
+                    52.42838885740878
+                ], 
+                [
+                    -116.24401348445437, 
+                    52.4247724831981
+                ], 
+                [
+                    -116.24993469730266, 
+                    52.42476980055217
+                ], 
+                [
+                    -116.2557079345624, 
+                    52.42476690348107
+                ], 
+                [
+                    -116.25570838658912, 
+                    52.42838338678924
+                ], 
+                [
+                    -116.25570926447409, 
+                    52.43561639320017
+                ], 
+                [
+                    -116.2499360311716, 
+                    52.43561915465472
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459684, 
+    "properties": {
+        "geom:bounds": "-116.255709264,52.4247669035,-116.244013484,52.4356191547", 
+        "geom:latitude": 52.429272388966524, 
+        "geom:longitude": -116.25133216882068, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.42919066992865, 
+        "label:longitude": -116.25261304101942, 
+        "ol:concordances": {
+            "oal:pasites_id": "10110"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Snow Creek Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

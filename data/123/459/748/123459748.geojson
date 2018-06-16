@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.21926112144094, 
+                    52.8871379677563
+                ], 
+                [
+                    -114.21927678693326, 
+                    52.87991521853667
+                ], 
+                [
+                    -114.23119830341226, 
+                    52.87991014932014
+                ], 
+                [
+                    -114.23119119890305, 
+                    52.887128600807365
+                ], 
+                [
+                    -114.21926112144094, 
+                    52.8871379677563
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459748, 
+    "properties": {
+        "geom:bounds": "-114.231198303,52.8799101493,-114.219261121,52.8871379678", 
+        "geom:latitude": 52.88352341606606, 
+        "geom:longitude": -114.22523126118065, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.883522983578686, 
+        "label:longitude": -114.22523102971682, 
+        "ol:concordances": {
+            "oal:pasites_id": "377"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Hoadley Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

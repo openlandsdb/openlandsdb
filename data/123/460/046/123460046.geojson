@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.2197470182875, 
+                    52.506753999804296
+                ], 
+                [
+                    -113.23157887662619, 
+                    52.5067587483108
+                ], 
+                [
+                    -113.23159659239514, 
+                    52.51396681359725
+                ], 
+                [
+                    -113.21976879943347, 
+                    52.51394903260826
+                ], 
+                [
+                    -113.2197470182875, 
+                    52.506753999804296
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460046, 
+    "properties": {
+        "geom:bounds": "-113.231596592,52.5067539998,-113.219747018,52.5139668136", 
+        "geom:latitude": 52.510356942228626, 
+        "geom:longitude": -113.22567460566391, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.51035714485753, 
+        "label:longitude": -113.22567462571772, 
+        "ol:concordances": {
+            "oal:pasites_id": "211"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Gadsby Lake Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

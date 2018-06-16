@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -115.91990810983576, 
+                    52.50491693573442
+                ], 
+                [
+                    -115.91857920044693, 
+                    52.504916374373984
+                ], 
+                [
+                    -115.91527808905573, 
+                    52.50322140198058
+                ], 
+                [
+                    -115.91427117737656, 
+                    52.50270435160133
+                ], 
+                [
+                    -115.91254499420472, 
+                    52.50181790992465
+                ], 
+                [
+                    -115.91218251661815, 
+                    52.5016383946766
+                ], 
+                [
+                    -115.91833925854988, 
+                    52.50130168997035
+                ], 
+                [
+                    -115.91990751652096, 
+                    52.50130238808743
+                ], 
+                [
+                    -115.91990810983576, 
+                    52.50491693573442
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459880, 
+    "properties": {
+        "geom:bounds": "-115.91990811,52.50130169,-115.912182517,52.5049169357", 
+        "geom:latitude": 52.50275947866509, 
+        "geom:longitude": -115.91726889636084, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.50278716871796, 
+        "label:longitude": -115.91797008540406, 
+        "ol:concordances": {
+            "oal:pasites_id": "10058"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Harlech Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

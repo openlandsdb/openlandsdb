@@ -1,0 +1,76 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.75249007738715, 
+                        52.481123053802385
+                    ], 
+                    [
+                        -115.75249052799113, 
+                        52.47941909043307
+                    ], 
+                    [
+                        -115.75840750419546, 
+                        52.47942127750618
+                    ], 
+                    [
+                        -115.75840672132288, 
+                        52.48303765865051
+                    ], 
+                    [
+                        -115.75736600937762, 
+                        52.483037628299854
+                    ], 
+                    [
+                        -115.75249007738715, 
+                        52.481123053802385
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        -115.75248949628602, 
+                        52.483035858597674
+                    ], 
+                    [
+                        -115.75249003985164, 
+                        52.48125424351362
+                    ], 
+                    [
+                        -115.75702243853175, 
+                        52.48303757863224
+                    ], 
+                    [
+                        -115.75248949628602, 
+                        52.483035858597674
+                    ]
+                ]
+            ]
+        ], 
+        "type": "MultiPolygon"
+    }, 
+    "id": 123459964, 
+    "properties": {
+        "geom:bounds": "-115.758407504,52.4794190904,-115.752489496,52.4830376587", 
+        "geom:latitude": 52.481201791721254, 
+        "geom:longitude": -115.75546645465194, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.48092561116617, 
+        "label:longitude": -115.75582082981205, 
+        "ol:concordances": {
+            "oal:pasites_id": "10105"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184638, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Shunda Viewpoint Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

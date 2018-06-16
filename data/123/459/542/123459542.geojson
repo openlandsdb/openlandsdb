@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.62533763868052, 
+                    52.5960583625193
+                ], 
+                [
+                    -114.62536323126528, 
+                    52.603295787689156
+                ], 
+                [
+                    -114.61352337277712, 
+                    52.603217852663434
+                ], 
+                [
+                    -114.61350287598245, 
+                    52.595984761243926
+                ], 
+                [
+                    -114.62533763868052, 
+                    52.5960583625193
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459542, 
+    "properties": {
+        "geom:bounds": "-114.625363231,52.5959847612,-114.613502876,52.6032957877", 
+        "geom:latitude": 52.599639453640854, 
+        "geom:longitude": -114.61943236692183, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.599639194480886, 
+        "label:longitude": -114.61943264602371, 
+        "ol:concordances": {
+            "oal:pasites_id": "376"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Welch Creek Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.79395572185877, 
+                    53.163266638550034
+                ], 
+                [
+                    -114.79394470351932, 
+                    53.15603151601024
+                ], 
+                [
+                    -114.79392794223203, 
+                    53.14880219395165
+                ], 
+                [
+                    -114.80600743872589, 
+                    53.148822477398944
+                ], 
+                [
+                    -114.80598597385797, 
+                    53.15604686437935
+                ], 
+                [
+                    -114.8059688953955, 
+                    53.16327147092232
+                ], 
+                [
+                    -114.79395572185877, 
+                    53.163266638550034
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460092, 
+    "properties": {
+        "geom:bounds": "-114.806007439,53.148802194,-114.793927942,53.1632714709", 
+        "geom:latitude": 53.156034059612445, 
+        "geom:longitude": -114.79996410524382, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.15604069252163, 
+        "label:longitude": -114.79996407126947, 
+        "ol:concordances": {
+            "oal:pasites_id": "290"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Buck Lake Creek Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

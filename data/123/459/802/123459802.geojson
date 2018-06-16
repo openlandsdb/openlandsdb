@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.78723011913921, 
+                    53.41483815093585
+                ], 
+                [
+                    -113.78720728774, 
+                    53.41739894412146
+                ], 
+                [
+                    -113.7872030379759, 
+                    53.41787558179176
+                ], 
+                [
+                    -113.78342764470636, 
+                    53.4178614520261
+                ], 
+                [
+                    -113.78346642079076, 
+                    53.41389149003413
+                ], 
+                [
+                    -113.78723844514926, 
+                    53.41390400770243
+                ], 
+                [
+                    -113.78723011913921, 
+                    53.41483815093585
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459802, 
+    "properties": {
+        "geom:bounds": "-113.787238445,53.41389149,-113.783427645,53.4178755818", 
+        "geom:latitude": 53.41588342997009, 
+        "geom:longitude": -113.78533401164592, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.415883138041735, 
+        "label:longitude": -113.78533423300422, 
+        "ol:concordances": {
+            "oal:pasites_id": "525"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Clifford E. Lee Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -112.88791951633544, 
+                    51.56693390941593
+                ], 
+                [
+                    -112.88593648932208, 
+                    51.56694061250428
+                ], 
+                [
+                    -112.88600870303014, 
+                    51.56652803281511
+                ], 
+                [
+                    -112.88635425114042, 
+                    51.565821741970794
+                ], 
+                [
+                    -112.88658042642996, 
+                    51.565130555066006
+                ], 
+                [
+                    -112.88792170977688, 
+                    51.565125954096466
+                ], 
+                [
+                    -112.88791951633544, 
+                    51.56693390941593
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459502, 
+    "properties": {
+        "geom:bounds": "-112.88792171,51.5651259541,-112.885936489,51.5669406125", 
+        "geom:latitude": 51.56609682731903, 
+        "geom:longitude": -112.88706900529641, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 51.56611216234863, 
+        "label:longitude": -112.88709196760772, 
+        "ol:concordances": {
+            "oal:pasites_id": "10640"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Bleriot Ferry Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

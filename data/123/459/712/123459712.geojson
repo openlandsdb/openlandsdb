@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.98884883864932, 
+                    53.25789280051734
+                ], 
+                [
+                    -114.9888422193819, 
+                    53.26511834880709
+                ], 
+                [
+                    -114.97698129695462, 
+                    53.26511472915872
+                ], 
+                [
+                    -114.97699314211013, 
+                    53.257889651820655
+                ], 
+                [
+                    -114.98884883864932, 
+                    53.25789280051734
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459712, 
+    "properties": {
+        "geom:bounds": "-114.988848839,53.2578896518,-114.976981297,53.2651183488", 
+        "geom:latitude": 53.26150414797084, 
+        "geom:longitude": -114.98291643814208, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.261503882758575, 
+        "label:longitude": -114.98291669402245, 
+        "ol:concordances": {
+            "oal:pasites_id": "494"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Rocky Rapids Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

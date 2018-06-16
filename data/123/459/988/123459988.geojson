@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.19494887594938, 
+                    52.93068929096749
+                ], 
+                [
+                    -114.19490918613496, 
+                    52.92346587692873
+                ], 
+                [
+                    -114.20690005862859, 
+                    52.923454600056225
+                ], 
+                [
+                    -114.20690821271704, 
+                    52.93067865904882
+                ], 
+                [
+                    -114.19494887594938, 
+                    52.93068929096749
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459988, 
+    "properties": {
+        "geom:bounds": "-114.206908213,52.9234546001,-114.194909186,52.930689291", 
+        "geom:latitude": 52.92707052129652, 
+        "geom:longitude": -114.20091666321933, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.92707210631549, 
+        "label:longitude": -114.20091672234616, 
+        "ol:concordances": {
+            "oal:pasites_id": "49"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184638, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Battle Lake Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

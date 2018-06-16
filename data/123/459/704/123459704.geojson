@@ -1,0 +1,70 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.82109741276899, 
+                    50.50470682591089
+                ], 
+                [
+                    -114.82251327708536, 
+                    50.50470663223647
+                ], 
+                [
+                    -114.82251338956067, 
+                    50.506520801020834
+                ], 
+                [
+                    -114.82251343228961, 
+                    50.50721770339066
+                ], 
+                [
+                    -114.82251343137193, 
+                    50.50722020631926
+                ], 
+                [
+                    -114.8224564727903, 
+                    50.50717929976152
+                ], 
+                [
+                    -114.82159516804091, 
+                    50.50656072922092
+                ], 
+                [
+                    -114.82153516044038, 
+                    50.50651471540752
+                ], 
+                [
+                    -114.82109740728549, 
+                    50.5061790386465
+                ], 
+                [
+                    -114.82109741276899, 
+                    50.50470682591089
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459704, 
+    "properties": {
+        "geom:bounds": "-114.822513432,50.5047066322,-114.821097407,50.5072202063", 
+        "geom:latitude": 50.505729492963276, 
+        "geom:longitude": -114.82186652009528, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 50.505710370953565, 
+        "label:longitude": -114.82180860252996, 
+        "ol:concordances": {
+            "oal:pasites_id": "10259"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Trout Pond Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

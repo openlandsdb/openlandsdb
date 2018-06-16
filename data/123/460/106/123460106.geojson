@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -113.76653012230443, 
+                    52.02680710999296
+                ], 
+                [
+                    -113.77826432196854, 
+                    52.026794657691475
+                ], 
+                [
+                    -113.77824354890369, 
+                    52.03397345839126
+                ], 
+                [
+                    -113.76650745657098, 
+                    52.03398245223446
+                ], 
+                [
+                    -113.76653012230443, 
+                    52.02680710999296
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460106, 
+    "properties": {
+        "geom:bounds": "-113.778264322,52.0267946577,-113.766507457,52.0339824522", 
+        "geom:latitude": 52.030389516141476, 
+        "geom:longitude": -113.77238683362073, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.03038942094408, 
+        "label:longitude": -113.77238661904813, 
+        "ol:concordances": {
+            "oal:pasites_id": "354"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Innisfail Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

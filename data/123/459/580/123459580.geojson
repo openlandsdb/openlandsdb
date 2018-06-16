@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.03810384470182, 
+                    54.936598270640616
+                ], 
+                [
+                    -114.03817458047196, 
+                    54.93774714822006
+                ], 
+                [
+                    -114.03617930905426, 
+                    54.937746916294536
+                ], 
+                [
+                    -114.03610664492291, 
+                    54.936598323219116
+                ], 
+                [
+                    -114.03810384470182, 
+                    54.936598270640616
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459580, 
+    "properties": {
+        "geom:bounds": "-114.03817458,54.9365982706,-114.036106645,54.9377471482", 
+        "geom:latitude": 54.93717257127054, 
+        "geom:longitude": -114.03714113017554, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.93717266238579, 
+        "label:longitude": -114.03714882830315, 
+        "ol:concordances": {
+            "oal:pasites_id": "10648"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Chisholm Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

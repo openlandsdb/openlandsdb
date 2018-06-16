@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -115.09259872834464, 
+                    54.52228118057889
+                ], 
+                [
+                    -115.09543760533519, 
+                    54.52446836773281
+                ], 
+                [
+                    -115.09243305718168, 
+                    54.525791960953725
+                ], 
+                [
+                    -115.08959425192504, 
+                    54.523604722616106
+                ], 
+                [
+                    -115.09259872834464, 
+                    54.52228118057889
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459702, 
+    "properties": {
+        "geom:bounds": "-115.095437605,54.5222811806,-115.089594252,54.525791961", 
+        "geom:latitude": 54.5240365639314, 
+        "geom:longitude": -115.09251591619189, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.524036544057154, 
+        "label:longitude": -115.09251595278042, 
+        "ol:concordances": {
+            "oal:pasites_id": "10720"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184636, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Trapper Lea's Cabin Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

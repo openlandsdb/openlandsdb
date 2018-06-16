@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -115.05781232913081, 
+                    53.410693721777996
+                ], 
+                [
+                    -115.05779385157908, 
+                    53.403467057850364
+                ], 
+                [
+                    -115.06988426454423, 
+                    53.40346058104754
+                ], 
+                [
+                    -115.06990663867585, 
+                    53.41068589695684
+                ], 
+                [
+                    -115.05781232913081, 
+                    53.410693721777996
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460034, 
+    "properties": {
+        "geom:bounds": "-115.069906639,53.403460581,-115.057793852,53.4106937218", 
+        "geom:latitude": 53.40707700874739, 
+        "geom:longitude": -115.06384908386596, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.40707681507435, 
+        "label:longitude": -115.06384910545549, 
+        "ol:concordances": {
+            "oal:pasites_id": "141"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Bigoray Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

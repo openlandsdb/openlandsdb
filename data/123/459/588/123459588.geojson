@@ -1,0 +1,46 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.33436398015299, 
+                    53.73043307225105
+                ], 
+                [
+                    -114.33434562595508, 
+                    53.731252348686894
+                ], 
+                [
+                    -114.32967345826633, 
+                    53.73044183190678
+                ], 
+                [
+                    -114.33436398015299, 
+                    53.73043307225105
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459588, 
+    "properties": {
+        "geom:bounds": "-114.33436398,53.7304330723,-114.329673458,53.7312523487", 
+        "geom:latitude": 53.73070908428158, 
+        "geom:longitude": -114.33279435479146, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.73074312106633, 
+        "label:longitude": -114.33318477922592, 
+        "ol:concordances": {
+            "oal:pasites_id": "10674"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Gunn Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

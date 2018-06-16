@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.65970805607776, 
+                    53.1705894838682
+                ], 
+                [
+                    -114.65970976566051, 
+                    53.17782619966037
+                ], 
+                [
+                    -114.64764672909048, 
+                    53.17782783858159
+                ], 
+                [
+                    -114.6476514263836, 
+                    53.17059116866051
+                ], 
+                [
+                    -114.65970805607776, 
+                    53.1705894838682
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459970, 
+    "properties": {
+        "geom:bounds": "-114.659709766,53.1705894839,-114.647646729,53.1778278386", 
+        "geom:latitude": 53.17420899307116, 
+        "geom:longitude": -114.65367900072987, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 53.17420867274714, 
+        "label:longitude": -114.65367860953558, 
+        "ol:concordances": {
+            "oal:pasites_id": "381"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184638, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Carnwood Modeste Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

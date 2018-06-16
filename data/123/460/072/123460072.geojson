@@ -1,0 +1,58 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.55724454888495, 
+                    52.83643847159031
+                ], 
+                [
+                    -114.5572570445403, 
+                    52.84369396204371
+                ], 
+                [
+                    -114.54533209046494, 
+                    52.84368876111721
+                ], 
+                [
+                    -114.53340712910098, 
+                    52.8436823480306
+                ], 
+                [
+                    -114.53340218046225, 
+                    52.83645520733592
+                ], 
+                [
+                    -114.54532059280969, 
+                    52.83644823228186
+                ], 
+                [
+                    -114.55724454888495, 
+                    52.83643847159031
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123460072, 
+    "properties": {
+        "geom:bounds": "-114.557257045,52.8364384716,-114.53340218,52.843693962", 
+        "geom:latitude": 52.84006818574081, 
+        "geom:longitude": -114.54533550711515, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 52.84006849132625, 
+        "label:longitude": -114.54533558077584, 
+        "ol:concordances": {
+            "oal:pasites_id": "274"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184639, 
+        "ol:land_designation": "Natural Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Anderson Creek Natural Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

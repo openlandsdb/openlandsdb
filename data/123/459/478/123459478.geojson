@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -119.95514998136827, 
+                    55.47256074858612
+                ], 
+                [
+                    -119.95709520682637, 
+                    55.472923210192
+                ], 
+                [
+                    -119.95634548468907, 
+                    55.47422398755735
+                ], 
+                [
+                    -119.95440000341807, 
+                    55.473861460139396
+                ], 
+                [
+                    -119.95514998136827, 
+                    55.47256074858612
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459478, 
+    "properties": {
+        "geom:bounds": "-119.957095207,55.4725607486,-119.954400003,55.4742239876", 
+        "geom:latitude": 55.473392366779436, 
+        "geom:longitude": -119.95574766259698, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 55.473393612416565, 
+        "label:longitude": -119.9557544258563, 
+        "ol:concordances": {
+            "oal:pasites_id": "10655"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184635, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Demmitt Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

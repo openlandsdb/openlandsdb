@@ -1,0 +1,66 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -116.94487185774517, 
+                    54.4593703730922
+                ], 
+                [
+                    -116.94728934299687, 
+                    54.46160836132
+                ], 
+                [
+                    -116.94484313023258, 
+                    54.46231168010053
+                ], 
+                [
+                    -116.94484306281386, 
+                    54.46343561756873
+                ], 
+                [
+                    -116.9421751127226, 
+                    54.46343551422202
+                ], 
+                [
+                    -116.942175324701, 
+                    54.4616287209206
+                ], 
+                [
+                    -116.9375190676029, 
+                    54.461628403744356
+                ], 
+                [
+                    -116.93751956485121, 
+                    54.459374077758696
+                ], 
+                [
+                    -116.94487185774517, 
+                    54.4593703730922
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459902, 
+    "properties": {
+        "geom:bounds": "-116.947289343,54.4593703731,-116.937519068,54.4634356176", 
+        "geom:latitude": 54.460977982698786, 
+        "geom:longitude": -116.94228195670551, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 54.46112412855905, 
+        "label:longitude": -116.94365332234133, 
+        "ol:concordances": {
+            "oal:pasites_id": "10712"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Pines Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}

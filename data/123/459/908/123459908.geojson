@@ -1,0 +1,50 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -114.70529899340872, 
+                    50.768357457575846
+                ], 
+                [
+                    -114.71100234282841, 
+                    50.76835796185006
+                ], 
+                [
+                    -114.71100925815392, 
+                    50.771974999914256
+                ], 
+                [
+                    -114.70530613428679, 
+                    50.7719744969133
+                ], 
+                [
+                    -114.70529899340872, 
+                    50.768357457575846
+                ]
+            ]
+        ], 
+        "type": "Polygon"
+    }, 
+    "id": 123459908, 
+    "properties": {
+        "geom:bounds": "-114.711009258,50.7683574576,-114.705298993,50.7719749999", 
+        "geom:latitude": 50.77016621714289, 
+        "geom:longitude": -114.7081541819816, 
+        "geom:source": "oal", 
+        "geom:source_alts": [], 
+        "label:latitude": 50.77016622906177, 
+        "label:longitude": -114.70815415981016, 
+        "ol:concordances": {
+            "oal:pasites_id": "10264"
+        }, 
+        "ol:country": "CA", 
+        "ol:date_modified": 1529184637, 
+        "ol:land_designation": "Provincial Recreation Area", 
+        "ol:managing_agency": "Alberta Parks", 
+        "ol:managing_agency_level": "Regional", 
+        "ol:name": "Wildhorse Provincial Recreation Area", 
+        "ol:note": ""
+    }, 
+    "type": "Feature"
+}
