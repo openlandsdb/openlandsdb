@@ -4,13 +4,10 @@ An openly licensed, global geo-database of public lands.
 
 ## License
 
-Data is provided by openlandsdb under [CC BY](https://creativecommons.org/licenses/by/1.0) license.
-
-All data sources used by openlandsdb can be found [here](https://github.com/openlandsdb/openlandsdb/blob/master/sources/index/README.md).
-
-Source data used by openlandsdb is provided under a CC BY, public domain, or equivalent license.
-
-No use restrictions.
+- Data is provided by openlandsdb under [CC BY](https://creativecommons.org/licenses/by/1.0) license.
+- All data sources used by openlandsdb can be found [here](https://github.com/openlandsdb/openlandsdb/blob/master/sources/index/README.md).
+- Source data used by openlandsdb is provided under a CC BY, public domain, or equivalent license.
+- No use restrictions.
 
 ## FAQ
 
