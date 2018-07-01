@@ -56,6 +56,12 @@ This feature is in development. The goal will be two-fold:
 
 Similar databases are available online, but most contain commercial (and other) use restrictions; **openlandsdb** is provided without use restrictions.
 
-### How can I help?
+## Caveats
+
+* **openlandsdb** should be considered a "work in progress". 
+* Data may be incomplete or out of date.
+* Geometries of records may overlap with one another.
+
+## Contributing
 
 We are always happy to collaborate about a data contribution or chat about an issue. Follow the instructions in the [contributing.md](https://github.com/openlandsdb/openlandsdb/blob/master/CONTRIBUTING.md) file to file an issue.
