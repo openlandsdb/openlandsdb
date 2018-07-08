@@ -45,21 +45,6 @@ _Data Store of the National Park Service._
 * **url_home**: [https://irma.nps.gov/DataStore/](https://irma.nps.gov/DataStore/)
 * **url_archive**: [https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True](https://web.archive.org/web/20180615054457/https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True)
 
-## Nova Scotia Government's Open Data Portal
-
-_The Nova Scotia Government's open data portal_ 
-
-* **id**: 102345686
-* **name**: Nova Scotia Government's Open Data Portal
-* **prefix**: nsg
-* **access_date**: 2018-06-16
-* **license_type**: Open Government Licence - Nova Scotia (CC-BY)
-* **license_text**: You are free to copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.
-* **url_license**: [https://novascotia.ca/opendata/licence.asp](https://novascotia.ca/opendata/licence.asp)
-* **url_download**: [https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu](https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu)
-* **url_home**: [https://data.novascotia.ca/](https://data.novascotia.ca/)
-* **url_archive**: [https://web.archive.org/web/20180616215713/https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu](https://web.archive.org/web/20180616215713/https://data.novascotia.ca/Nature-and-Environment/Nova-Scotia-Topographic-Database-Delimiters/2m7k-63fu)
-
 ## Open Alberta
 
 _Government of Alberta open data portal._ 
@@ -74,4 +59,19 @@ _Government of Alberta open data portal._
 * **url_download**: [https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f](https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f)
 * **url_home**: [https://www.alberta.ca/open-government-program.aspx](https://www.alberta.ca/open-government-program.aspx)
 * **url_archive**: [https://web.archive.org/web/20180616211508/https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f](https://web.archive.org/web/20180616211508/https://open.alberta.ca/opendata/bf5a2648-e05f-4f05-888d-5aac74c0b77f)
+
+## United States Department of Agriculture, Forest Service
+
+_Forest Service Geodata Clearinghouse._ 
+
+* **id**: 102345686
+* **name**: United States Department of Agriculture, Forest Service
+* **prefix**: ufs
+* **access_date**: 2018-07-08
+* **license_type**: Public Domain
+* **license_text**: The USDA Forest Service makes no warranty, expressed or implied, including the warranties of merchantability and fitness for a particular purpose, nor assumes any legal liability or responsibility for the accuracy, reliability, completeness or utility of these geospatial data, or for the improper or incorrect use of these geospatial data. These geospatial data and related maps or graphics are not legal documents and are not intended to be used as such. [...]
+* **url_license**: [https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.AdministrativeForest.xml](https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.AdministrativeForest.xml)
+* **url_download**: [https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries)
+* **url_home**: [https://www.fs.fed.us/](https://www.fs.fed.us/)
+* **url_archive**: [https://web.archive.org/web/20180708232438/https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries](https://web.archive.org/web/20180708232438/https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries)
 

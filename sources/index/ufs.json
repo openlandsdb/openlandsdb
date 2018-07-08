@@ -1,0 +1,16 @@
+{
+	"id": 102345686,
+	"name": "United States Department of Agriculture, Forest Service",
+	"prefix": "ufs",
+	"access_date": "2018-07-08",
+	"description": "Forest Service Geodata Clearinghouse.",
+	"notes": {
+		"2018-06-14": "Downloaded forest boundary shapefiles and sanitized properties for import."
+	},
+	"license_type": "Public Domain",
+	"license_text": "The USDA Forest Service makes no warranty, expressed or implied, including the warranties of merchantability and fitness for a particular purpose, nor assumes any legal liability or responsibility for the accuracy, reliability, completeness or utility of these geospatial data, or for the improper or incorrect use of these geospatial data. These geospatial data and related maps or graphics are not legal documents and are not intended to be used as such. [...]",
+	"url_license": "https://data.fs.usda.gov/geodata/edw/edw_resources/meta/S_USA.AdministrativeForest.xml",
+	"url_download": "https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries",
+	"url_home": "https://www.fs.fed.us/",
+	"url_archive": "https://web.archive.org/web/20180708232438/https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=boundaries"
+}
