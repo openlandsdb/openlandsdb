@@ -78251,11 +78251,11 @@
             "ufs:forestorgc": "0304"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091592, 
+        "ol:date_modified": 1531094068, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Coconino National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -43133,11 +43133,11 @@
             "ufs:forestorgc": "0910"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091649, 
+        "ol:date_modified": 1531094126, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Hiawatha National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

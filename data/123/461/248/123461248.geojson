@@ -128307,11 +128307,11 @@
             "ufs:forestorgc": "0415"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091627, 
+        "ol:date_modified": 1531094103, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Caribou-Targhee National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

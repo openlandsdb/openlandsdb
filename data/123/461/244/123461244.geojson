@@ -71189,11 +71189,11 @@
             "ufs:forestorgc": "0516"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091624, 
+        "ol:date_modified": 1531094100, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Stanislaus National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

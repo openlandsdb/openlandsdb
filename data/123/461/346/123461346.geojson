@@ -48329,11 +48329,11 @@
             "ufs:forestorgc": "0801"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091674, 
+        "ol:date_modified": 1531094149, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "National Forests in Alabama", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

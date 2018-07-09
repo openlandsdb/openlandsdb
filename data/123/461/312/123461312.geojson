@@ -9967,11 +9967,11 @@
             "ufs:forestorgc": "0607"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091650, 
+        "ol:date_modified": 1531094127, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Ochoco National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

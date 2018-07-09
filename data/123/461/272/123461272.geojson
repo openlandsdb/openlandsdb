@@ -76343,11 +76343,11 @@
             "ufs:forestorgc": "0610"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091639, 
+        "ol:date_modified": 1531094115, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Rogue River-Siskiyou National Forests", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

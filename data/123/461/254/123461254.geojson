@@ -26663,11 +26663,11 @@
             "ufs:forestorgc": "0606"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091632, 
+        "ol:date_modified": 1531094108, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Mt. Hood National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

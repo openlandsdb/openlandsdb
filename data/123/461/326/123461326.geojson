@@ -45777,11 +45777,11 @@
             "ufs:forestorgc": "0806"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091656, 
+        "ol:date_modified": 1531094132, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Kisatchie National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

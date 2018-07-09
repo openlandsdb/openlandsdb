@@ -100857,11 +100857,11 @@
             "ufs:forestorgc": "0812"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091664, 
+        "ol:date_modified": 1531094141, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Francis Marion and Sumter National Forests", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

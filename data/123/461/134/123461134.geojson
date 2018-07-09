@@ -110119,11 +110119,11 @@
             "ufs:forestorgc": "0215"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091575, 
+        "ol:date_modified": 1531094051, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "White River National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

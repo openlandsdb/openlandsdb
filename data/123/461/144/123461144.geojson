@@ -26741,11 +26741,11 @@
             "ufs:forestorgc": "0203"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091581, 
+        "ol:date_modified": 1531094057, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Black Hills National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

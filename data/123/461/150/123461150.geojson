@@ -124363,11 +124363,11 @@
             "ufs:forestorgc": "0212"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091583, 
+        "ol:date_modified": 1531094059, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Pike and San Isabel National Forests", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

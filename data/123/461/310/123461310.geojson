@@ -6029,11 +6029,11 @@
             "ufs:forestorgc": "0912"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091650, 
+        "ol:date_modified": 1531094126, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Hoosier National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -56663,11 +56663,11 @@
             "ufs:forestorgc": "0307"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091595, 
+        "ol:date_modified": 1531094071, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Kaibab National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

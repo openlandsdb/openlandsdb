@@ -31035,11 +31035,11 @@
             "ufs:forestorgc": "0519"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091622, 
+        "ol:date_modified": 1531094098, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Lake Tahoe Basin Management Unit", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

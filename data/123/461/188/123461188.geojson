@@ -57975,11 +57975,11 @@
             "ufs:forestorgc": "0517"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091600, 
+        "ol:date_modified": 1531094076, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Tahoe National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -66405,11 +66405,11 @@
             "ufs:forestorgc": "0503"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091641, 
+        "ol:date_modified": 1531094118, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Eldorado National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

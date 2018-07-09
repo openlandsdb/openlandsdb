@@ -72837,11 +72837,11 @@
             "ufs:forestorgc": "0210"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091580, 
+        "ol:date_modified": 1531094056, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Arapaho and Roosevelt National Forests", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

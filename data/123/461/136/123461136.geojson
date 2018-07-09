@@ -120027,11 +120027,11 @@
             "ufs:forestorgc": "0204"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091577, 
+        "ol:date_modified": 1531094053, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Grand Mesa, Uncompahgre and Gunnison National Forests", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

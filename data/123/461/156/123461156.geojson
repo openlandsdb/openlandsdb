@@ -100873,11 +100873,11 @@
             "ufs:forestorgc": "0110"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091587, 
+        "ol:date_modified": 1531094063, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Flathead National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -78423,11 +78423,11 @@
             "ufs:forestorgc": "0605"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091640, 
+        "ol:date_modified": 1531094116, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Mt. Baker-Snoqualmie National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

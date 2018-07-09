@@ -86657,11 +86657,11 @@
             "ufs:forestorgc": "0103"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091604, 
+        "ol:date_modified": 1531094080, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Bitterroot National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

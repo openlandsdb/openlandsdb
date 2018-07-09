@@ -92437,11 +92437,11 @@
             "ufs:forestorgc": "0414"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091609, 
+        "ol:date_modified": 1531094085, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Sawtooth National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

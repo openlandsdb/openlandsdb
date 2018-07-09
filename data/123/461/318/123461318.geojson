@@ -36539,11 +36539,11 @@
             "ufs:forestorgc": "0622"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091652, 
+        "ol:date_modified": 1531094128, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Columbia River Gorge National Scenic Area", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

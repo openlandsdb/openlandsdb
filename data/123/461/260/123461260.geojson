@@ -87583,11 +87583,11 @@
             "ufs:forestorgc": "0612"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091633, 
+        "ol:date_modified": 1531094110, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Siuslaw National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

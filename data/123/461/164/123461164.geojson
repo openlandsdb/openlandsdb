@@ -65843,11 +65843,11 @@
             "ufs:forestorgc": "0312"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091593, 
+        "ol:date_modified": 1531094069, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Tonto National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

@@ -75369,11 +75369,11 @@
             "ufs:forestorgc": "0111"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091603, 
+        "ol:date_modified": 1531094079, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Custer Gallatin National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

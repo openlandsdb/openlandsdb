@@ -47873,11 +47873,11 @@
             "ufs:forestorgc": "0614"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091638, 
+        "ol:date_modified": 1531094114, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Umatilla National Forest", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

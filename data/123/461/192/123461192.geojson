@@ -107521,11 +107521,11 @@
             "ufs:forestorgc": "0118"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091602, 
+        "ol:date_modified": 1531094078, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Dakota Prairie Grasslands", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }

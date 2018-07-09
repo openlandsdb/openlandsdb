@@ -5395,11 +5395,11 @@
             "ufs:forestorgc": "0915"
         }, 
         "ol:country": "US", 
-        "ol:date_modified": 1531091693, 
+        "ol:date_modified": 1531094168, 
         "ol:managing_agency": "National Forest Service", 
         "ol:managing_agency_level": "Federal", 
         "ol:name": "Midewin National Tallgrass Prairie", 
         "ol:note": ""
     }, 
-    "type": "feature"
+    "type": "Feature"
 }
